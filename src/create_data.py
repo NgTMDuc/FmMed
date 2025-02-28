@@ -21,7 +21,7 @@ def generate_vqa(messages, model = "gpt-4o mini", max_tokens = 250):
 
 
 def create_messages(sysm_path, data_path):
-    with open(sysm_path, "r") as f:
+    with open(os.path.join(sys_msg, "system_message.txt"), "r") as f:
         sys_msg = f.read()
     
     part = mappingE2V(data_path.split("/")[-2])
@@ -32,6 +32,21 @@ def create_messages(sysm_path, data_path):
     data = data.split(".")
     for line in data:
         prompt += f"\n{str(line).strip()}"
+    
+    example = "\nMột vài ví dụ:"
+    full_examples = os.listdir("sysm_path")
+    noexamples = (len(full_examples) - 1 )// 2
+    for idx in noexamples:
+        caption_path = f"{idx}_caps.txt"
+        conv_path = f"{idx}_conv.txt"
+        with open(caption_path, "r") as f:
+            caption = f.read()
+            example += f"\n{caption}"
+        with open(conv_path, "r") as f:
+            conv = f.read()
+            example += f"\n{conv}"
+    
+    sys_msg += example
     
     message = [
         {"role": "system", "content" : sys_msg},

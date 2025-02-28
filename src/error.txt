@@ -4,3 +4,1545 @@
 /home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_9_patient_327.txt
 /home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_24_patient_242.txt
 /home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_29_patient_265.txt
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_17_patient_195.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_75.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_312.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_154.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_17_patient_192.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_327.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_228.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_204.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_300.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_164.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_280.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_137.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_226.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_258.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_219.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_174.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_292.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_271.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_168.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_215.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_261.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_319.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_323.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_133.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_177.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_325.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_302.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_248.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_176.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_317.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_235.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_222.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_286.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_49.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_263.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_332.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_181.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_159.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_284.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_230.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_142.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_225.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_172.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_331.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_163.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_282.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_274.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_249.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_153.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_238.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_205.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_149.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_233.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_279.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_304.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_160.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_296.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_308.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_136.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_173.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_146.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_307.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_298.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_170.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_321.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_335.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_140.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_299.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_232.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_287.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_278.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_187.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_303.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_147.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_200.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_234.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_210.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_143.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_273.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_145.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_322.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_326.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_151.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_166.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_161.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_182.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_255.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_262.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_214.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_251.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_158.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_311.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_242.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_135.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_277.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_211.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_310.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_17_patient_193.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_333.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_203.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_318.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_184.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_240.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_289.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_231.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_162.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_212.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_175.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_198.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_236.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_267.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_237.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_207.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_315.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_155.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_241.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_293.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_264.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_260.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_23_patient_239.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_256.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_306.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_208.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_218.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_313.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_243.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_283.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_178.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_291.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_209.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_189.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_144.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_285.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_165.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_329.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_190.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_305.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_253.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_295.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_290.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_179.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_297.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_245.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_314.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_301.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_201.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_265.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_188.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_169.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_257.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_247.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_141.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_281.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_269.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_244.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_186.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_227.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_24_patient_246.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_216.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_334.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_157.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_220.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_217.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_206.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_197.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_254.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_191.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_320.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_183.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_224.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_252.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_31_patient_294.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_150.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_152.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_330.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_7_patient_309.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_272.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_223.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_139.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_275.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_28_patient_250.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_171.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_17_patient_194.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_185.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_30_patient_288.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_268.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_138.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_199.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_276.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_29_patient_259.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_16_patient_180.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_328.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_17_patient_196.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_8_patient_316.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_9_patient_324.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_229.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_15_patient_167.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_2_patient_202.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_3_patient_270.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_1_patient_134.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_22_patient_221.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_14_patient_156.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_10_patient_148.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/head_neck/day_21_patient_213.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_17_patient_195.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_75.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_312.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_154.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_17_patient_192.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_327.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_228.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_204.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_300.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_164.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_280.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_137.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_226.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_258.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_219.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_174.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_292.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_271.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_168.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_215.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_261.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_319.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_323.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_133.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_177.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_325.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_302.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_248.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_176.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_317.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_235.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_222.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_286.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_49.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_263.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_332.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_181.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_159.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_284.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_230.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_142.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_225.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_172.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_331.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_163.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_282.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_274.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_249.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_153.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_238.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_205.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_149.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_233.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_279.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_304.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_160.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_296.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_308.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_136.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_173.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_146.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_307.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_298.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_170.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_321.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_335.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_140.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_299.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_232.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_287.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_278.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_187.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_303.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_147.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_200.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_234.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_210.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_143.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_273.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_145.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_322.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_326.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_151.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_166.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_161.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_182.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_255.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_262.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_214.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_251.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_158.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_311.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_242.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_135.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_277.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_211.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_310.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_17_patient_193.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_333.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_203.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_318.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_184.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_240.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_289.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_231.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_162.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_212.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_175.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_198.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_236.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_267.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_237.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_207.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_315.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_155.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_241.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_293.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_264.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_260.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_23_patient_239.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_256.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_306.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_208.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_218.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_313.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_243.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_283.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_178.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_291.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_209.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_189.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_144.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_285.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_165.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_329.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_190.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_305.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_253.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_295.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_290.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_179.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_297.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_245.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_314.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_301.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_201.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_265.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_188.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_169.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_257.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_247.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_141.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_281.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_269.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_244.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_186.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_227.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_24_patient_246.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_216.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_334.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_157.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_220.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_217.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_206.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_197.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_254.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_191.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_320.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_183.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_224.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_252.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_31_patient_294.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_150.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_152.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_330.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_7_patient_309.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_272.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_223.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_139.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_275.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_28_patient_250.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_171.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_17_patient_194.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_185.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_30_patient_288.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_268.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_138.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_199.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_276.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_29_patient_259.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_16_patient_180.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_328.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_17_patient_196.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_8_patient_316.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_9_patient_324.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_229.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_15_patient_167.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_2_patient_202.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_3_patient_270.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_1_patient_134.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_22_patient_221.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_14_patient_156.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_10_patient_148.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/abdomen_pelvis/day_21_patient_213.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_17_patient_195.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_75.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_312.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_154.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_17_patient_192.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_327.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_228.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_204.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_300.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_164.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_280.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_137.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_226.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_258.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_219.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_174.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_292.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_271.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_168.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_215.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_261.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_319.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_323.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_133.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_177.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_325.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_302.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_248.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_176.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_317.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_235.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_222.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_286.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_49.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_263.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_332.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_181.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_159.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_284.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_230.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_142.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_225.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_172.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_331.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_163.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_282.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_274.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_249.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_153.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_238.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_205.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_149.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_233.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_279.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_304.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_160.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_296.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_308.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_136.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_173.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_146.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_307.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_298.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_170.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_321.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_335.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_140.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_299.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_232.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_287.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_278.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_187.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_303.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_147.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_200.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_234.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_210.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_143.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_273.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_145.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_322.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_326.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_151.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_166.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_161.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_182.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_255.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_262.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_214.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_251.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_158.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_311.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_242.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_135.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_277.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_211.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_310.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_17_patient_193.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_333.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_203.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_318.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_184.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_240.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_289.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_231.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_162.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_212.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_175.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_198.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_236.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_267.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_237.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_207.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_315.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_155.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_241.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_293.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_264.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_260.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_23_patient_239.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_256.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_306.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_208.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_218.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_313.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_243.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_283.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_178.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_291.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_209.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_189.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_144.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_285.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_165.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_329.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_190.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_305.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_253.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_295.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_290.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_179.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_297.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_245.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_314.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_301.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_201.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_265.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_188.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_169.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_257.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_247.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_141.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_281.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_269.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_244.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_186.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_227.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_24_patient_246.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_216.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_334.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_157.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_220.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_217.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_206.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_197.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_254.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_191.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_320.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_183.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_224.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_252.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_31_patient_294.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_150.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_152.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_330.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_7_patient_309.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_272.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_223.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_139.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_275.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_28_patient_250.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_171.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_17_patient_194.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_185.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_30_patient_288.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_268.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_138.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_199.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_276.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_29_patient_259.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_16_patient_180.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_328.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_17_patient_196.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_8_patient_316.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_9_patient_324.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_229.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_15_patient_167.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_2_patient_202.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_3_patient_270.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_1_patient_134.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_22_patient_221.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_14_patient_156.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_10_patient_148.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 3/images/chest/day_21_patient_213.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_90.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_96.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_103.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_117.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_119.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_104.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_106.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_89.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_81.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_100.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_105.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_130.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_88.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_102.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_108.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_113.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_116.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_127.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_86.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_110.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_87.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_84.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_85.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_92.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_114.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_109.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_118.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_115.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_93.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_120.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_132.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_125.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_128.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_124.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_121.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_126.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_83.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_131.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_123.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_82.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_97.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_122.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_112.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_111.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_99.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_95.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_80.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_28_patient_129.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_101.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_24_patient_107.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_21_patient_91.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_94.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/head_neck/day_23_patient_98.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_90.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_96.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_103.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_117.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_119.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_104.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_106.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_89.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_81.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_100.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_105.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_130.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_88.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_102.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_108.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_113.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_116.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_127.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_86.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_110.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_87.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_84.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_85.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_92.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_114.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_109.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_118.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_115.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_93.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_120.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_132.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_125.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_128.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_124.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_121.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_126.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_83.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_131.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_123.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_82.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_97.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_122.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_112.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_111.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_99.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_95.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_80.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_28_patient_129.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_101.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_24_patient_107.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_21_patient_91.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_94.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/abdomen_pelvis/day_23_patient_98.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_90.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_96.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_103.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_117.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_119.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_104.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_106.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_89.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_81.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_100.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_105.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_130.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_88.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_102.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_108.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_113.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_116.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_127.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_86.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_110.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_87.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_84.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_85.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_92.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_114.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_109.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_118.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_115.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_93.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_120.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_132.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_125.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_128.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_124.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_121.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_126.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_83.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_131.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_123.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_82.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_97.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_122.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_112.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_111.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_99.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_95.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_80.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_28_patient_129.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_101.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_24_patient_107.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_21_patient_91.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_94.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte
+/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/THANG 2/images/chest/day_23_patient_98.npy
+'utf-8' codec can't decode byte 0x93 in position 0: invalid start byte

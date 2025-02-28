@@ -9,7 +9,7 @@ API_KEY = os.getenv("OPEN_API_KEY")
 
 openai.api_key = API_KEY
 
-def generate_vqa(messages, model = "gpt-4o mini", max_tokens = 250):
+def generate_vqa(messages, model = "gpt-4o-mini", max_tokens = 250):
     response = openai.ChatCompletion.create(
         model = model,
         messages = messages,
@@ -21,7 +21,7 @@ def generate_vqa(messages, model = "gpt-4o mini", max_tokens = 250):
 
 
 def create_messages(sysm_path, data_path):
-    with open(os.path.join(sys_msg, "system_message.txt"), "r") as f:
+    with open(os.path.join(sysm_path, "system_message.txt"), "r") as f:
         sys_msg = f.read()
     
     part = mappingE2V(data_path.split("/")[-2])
@@ -34,11 +34,11 @@ def create_messages(sysm_path, data_path):
         prompt += f"\n{str(line).strip()}"
     
     example = "\nMột vài ví dụ:"
-    full_examples = os.listdir("sysm_path")
+    full_examples = os.listdir(sysm_path)
     noexamples = (len(full_examples) - 1 )// 2
-    for idx in noexamples:
-        caption_path = f"{idx}_caps.txt"
-        conv_path = f"{idx}_conv.txt"
+    for idx in range(1, 1 + noexamples):
+        caption_path = f"../prompts/conversations/{idx}_caps.txt"
+        conv_path = f"../prompts/conversations/{idx}_conv.txt"
         with open(caption_path, "r") as f:
             caption = f.read()
             example += f"\n{caption}"
@@ -65,7 +65,7 @@ def save_results(mes, save_path):
     
 
 if __name__ == "__main__":
-    sysm_path = "../prompts/conversations/system_message.txt"
+    sysm_path = "../prompts/conversations/"
     data_path = "./whole_body/sample.txt"
     message = create_messages(sysm_path, data_path)
     response = generate_vqa(message)

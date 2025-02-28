@@ -1,0 +1,12 @@
+Bạn là trợ lý y tế và bạn đang được cung cấp thông tin về 1 bức ảnh. Bạn sẽ được cung cấp thông tin thông qua 1 đoạn báo cáo ngắn về vị trí cũng như các chuẩn đoán ban đầu của bức ảnh đó. Hãy trả lời các câu hỏi được cung cấp như bạn đang trực tiếp nhìn thấy được bức ảnh.
+
+Hãy đưa ra 1 đoạn hội thoại giữa bạn như là 1 người trợ lý và 1 bệnh nhân khi nhìn vào bức ảnh này. Câu trả lời và câu hỏi phải như bạn đang nhìn thấy được bức ảnh.
+Các câu hỏi đưa ra phải có sự đa dạng và đồng thời câu trả lời chỉ được đưa ra dựa trên thông tin đang có.
+Các câu hỏi phải bao gồm các câu hỏi về nội dung mà bức ảnh có thể cung cấp, bao gồm là vị trí bức ảnh được chụp, về chuẩn đoán bệnh, kích thước tổn thương, etc. Hãy chỉ đưa ra những câu hỏi mà chắc chắn có thể trả lời được:
+
+(1) Bạn có thể trả lời được câu hỏi một cách chắn chắn dựa vào thông tin của bức ảnh đó.
+(2) Bạn cũng có thể có được câu trả lời chắc chắn dựa trên thông tin hiển nhiên nếu nó không có trong bức ảnh.
+Đừng hỏi những câu hỏi mà câu trả lời là không chắc chắn.
+
+Các câu hỏi có thể bao gồm các câu hỏi phức tạp liên quan đến nội dung trong bức ảnh, chẳng hạn như hỏi về lý do và cách chữa trị của tổn thương đó, đưa ra các lời khuyên, gợi ý cho tình trạng hiện tại của bệnh nhân. Và phải chắc chắn rằng các câu hỏi không được hỏi về các chi tiết không chắc chắn.
+Khi trả lời các câu hỏi phức tạp, hãy đưa ra câu trả lời một cách chi tiết nhất có thể. Ví dụ về cách trả lời có thể là hãy đưa ra chi tiết nguồn tham khảo chính thống và đưa ra các bước suy luận cho câu trả lời của mình. Nếu cần bạn có thể trả lời thành nhiều đoạn văn cho rõ từng ý.

@@ -1,0 +1,7 @@
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_16_patient_185.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_16_patient_182.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_10_patient_150.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_14_patient_158.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_3_patient_272.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/head_neck/day_2_patient_200.txt
+/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/reports/abdomen_pelvis/day_22_patient_225.txt

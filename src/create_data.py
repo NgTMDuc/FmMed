@@ -20,7 +20,7 @@ def extract_qa_pairs(message):
     
     return qa_pairs
 
-def generate_vqa(messages, model = "gpt-4o-mini", max_tokens = 250):
+def generate_vqa(messages, model = "gpt-4o-mini", max_tokens = 2500):
     response = openai.ChatCompletion.create(
         model = model,
         messages = messages,
@@ -67,21 +67,18 @@ def create_messages(sysm_path, data_path):
     return message
 
 def addingResult(json_file, infor):
+    # if not os.path.exists(json_file):
+    #     with open(json_file, "w") as file:
+    #         json.dump("", file)  # Initialize with an empty list
     # Check if file exists; if not, create an empty JSON array
-    if not os.path.exists(json_file):
-        with open(json_file, "w") as file:
-            json.dump([], file)  # Initialize with an empty list
-
     report_id = infor[0]
-    q = infor[1]
-    a = infor[2]
-
-    save = {
-        "report id": report_id, "Question": q, "Answer": a
-    }
     
-    with open(json_file, "a") as file:
-        file.write(json.dumps(save) + "\n")
+    qa = infor[1]
+    save = {"report_id": report_id, "qa": qa}
+    # with open(json_file, "r") as file:  
+    with open(json_file, "a", encoding="utf-8") as f:
+        
+        f.write(json.dumps(save, ensure_ascii=False) + "\n")
 
 
 def full_data(folder, type):
@@ -91,21 +88,28 @@ def full_data(folder, type):
         if "whole_body" in root:
             continue
         for file in files:
-            file_path = os.path.join(folder, root, file)
+            file_path = os.path.join(root, file)
             
             report_id = os.path.join(root, file)
             
-            
-            msg = create_messages(sysm_path, file_path)
-            response = generate_vqa(msg)
-            qa_pairs = extract_qa_pairs(response)
-            for i, (q, a) in enumerate(qa_pairs, 1):
-                addingResult("../data/conversations.json", (report_id, q, a))
+            # print(root)
+            try:
+                msg = create_messages(sysm_path, file_path)
+                response = generate_vqa(msg)
+            except Exception as e:
+                print("Error ", e)
+                with open("error.txt", "a") as f:
+                    f.write(file_path + "\n" + str(e) + "\n")
+                continue
+            addingResult("../data/conversations.json", (report_id, response))
+            # qa_pairs = extract_qa_pairs(response)
+            # for i, (q, a) in enumerate(qa_pairs, 1):
+                # addingResult("../data/conversations.json", (report_id, q, a))
             
             
         
         
 if __name__ == "__main__":
-    FOLDER_PATH = ""
+    FOLDER_PATH = "/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/"
     full_data(FOLDER_PATH, "conv")
     

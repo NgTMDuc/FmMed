@@ -1,6 +1,8 @@
 def mappingE2V(name):
     map_name = {
-        "whole_body": "cả cơ thể"       
+        "chest": "lông ngực",
+        "abdomen_pelvis": "bụng",
+        "head_neck": "đầu cổ"
     }
     
     return map_name[name]

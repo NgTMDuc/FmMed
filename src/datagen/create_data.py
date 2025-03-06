@@ -4,7 +4,7 @@ import os
 from mapping import mappingE2V
 import re
 import json
-load_dotenv(dotenv_path= "../.env")
+load_dotenv(dotenv_path= "../../.env")
 
 API_KEY = os.getenv("OPEN_API_KEY")
 
@@ -67,21 +67,6 @@ def create_messages(sysm_path, data_path):
     return message
 
 def addingResult(json_file, infor):
-    # # Check if file exists; if not, create an empty JSON array
-    # if not os.path.exists(json_file):
-    #     with open(json_file, "w") as file:
-    #         json.dump([], file)  # Initialize with an empty list
-
-    # report_id = infor[0]
-    # q = infor[1]
-    # a = infor[2]
-
-    # save = {
-    #     "report id": report_id, "Question": q, "Answer": a
-    # }
-    
-    # with open(json_file, "a") as file:
-    #     file.write(json.dumps(save) + "\n")
     report_id = infor[0]
     
     qa = infor[1]
@@ -98,19 +83,9 @@ def full_data(folder, type):
             continue
         for file in files:
             file_path = os.path.join(root, file)
-            
             report_id = os.path.join(root, file)
-            
-            
             msg = create_messages(sysm_path, file_path)
             response = generate_vqa(msg)
-            # qa_pairs = extract_qa_pairs(response)
-            # for i, (q, a) in enumerate(qa_pairs, 1):
-                # addingResult("../data/conversations.json", (report_id, q, a))
-            
-            
-            
-        
         
 if __name__ == "__main__":
     FOLDER_PATH = "/home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/"

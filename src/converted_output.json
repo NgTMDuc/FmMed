@@ -1,7 +1,7 @@
 [
   {
     "id": "1_9e3532bcc53b26267f10dcf1f8a70b82",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_186.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_186.npy",
     "conversations": [
       {
         "from": "human",
@@ -55,7 +55,7 @@
   },
   {
     "id": "2_d48d21942acf512ba299cffc2d533f76",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_315.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_315.npy",
     "conversations": [
       {
         "from": "human",
@@ -117,7 +117,7 @@
   },
   {
     "id": "3_cf87e475470f82250e279eaf34457a4c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_166.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_166.npy",
     "conversations": [
       {
         "from": "human",
@@ -163,7 +163,7 @@
   },
   {
     "id": "4_c8721a3811f1759be8eee0a77daaa748",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_327.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_327.npy",
     "conversations": [
       {
         "from": "human",
@@ -217,7 +217,7 @@
   },
   {
     "id": "5_fe1d551d8ce21b69f574f026fdcd8edd",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_242.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_242.npy",
     "conversations": [
       {
         "from": "human",
@@ -271,7 +271,7 @@
   },
   {
     "id": "6_fce1e8af005ea7a2403cbae1e262c1f8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_265.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_265.npy",
     "conversations": [
       {
         "from": "human",
@@ -325,7 +325,7 @@
   },
   {
     "id": "7_6fbb37a0139c00a8cf0a0eb5d48f7025",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_17_patient_196.npy",
+    "image": "THANG 3/images/head_neck/day_17_patient_196.npy",
     "conversations": [
       {
         "from": "human",
@@ -371,7 +371,7 @@
   },
   {
     "id": "8_bfce3bf11b18dece9c0d437586ee9b6b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_286.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_286.npy",
     "conversations": [
       {
         "from": "human",
@@ -417,7 +417,7 @@
   },
   {
     "id": "9_d1d88da04e33f631ce214abb19568027",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_235.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_235.npy",
     "conversations": [
       {
         "from": "human",
@@ -471,7 +471,7 @@
   },
   {
     "id": "10_34b17ec7cf82eb7ab19dfcec542270c7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_259.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_259.npy",
     "conversations": [
       {
         "from": "human",
@@ -517,7 +517,7 @@
   },
   {
     "id": "11_b4eb723a8fc00f5a681dd2a76745f7c4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_220.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_220.npy",
     "conversations": [
       {
         "from": "human",
@@ -563,7 +563,7 @@
   },
   {
     "id": "12_55383238c19486e9a1cd0865f3bf69cd",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_177.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_177.npy",
     "conversations": [
       {
         "from": "human",
@@ -617,7 +617,7 @@
   },
   {
     "id": "13_7dd7efe723d248da3853c7add6275e8f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_305.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_305.npy",
     "conversations": [
       {
         "from": "human",
@@ -663,7 +663,7 @@
   },
   {
     "id": "14_16c010d391cce992407080bf0ee51fb9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_258.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_258.npy",
     "conversations": [
       {
         "from": "human",
@@ -717,7 +717,7 @@
   },
   {
     "id": "15_70eab9d2793716534c7ce5b93582e666",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_267.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_267.npy",
     "conversations": [
       {
         "from": "human",
@@ -771,7 +771,7 @@
   },
   {
     "id": "16_91214073fec33331eb7d1fe07053a96f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_253.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_253.npy",
     "conversations": [
       {
         "from": "human",
@@ -817,7 +817,7 @@
   },
   {
     "id": "17_f0cb9b9f3f8f7098d45a0534ecb47007",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_190.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_190.npy",
     "conversations": [
       {
         "from": "human",
@@ -871,7 +871,7 @@
   },
   {
     "id": "18_ec6f952bb1a8b63d978f8808fd86e2ce",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_231.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_231.npy",
     "conversations": [
       {
         "from": "human",
@@ -917,7 +917,7 @@
   },
   {
     "id": "19_577d8ae6a27ac14a44a11a7f41806852",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_243.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_243.npy",
     "conversations": [
       {
         "from": "human",
@@ -963,7 +963,7 @@
   },
   {
     "id": "20_0ada1e1b1030da8633a8e359d3a584c4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_268.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_268.npy",
     "conversations": [
       {
         "from": "human",
@@ -1017,7 +1017,7 @@
   },
   {
     "id": "21_9693c27b69b47d02984322dbcd428610",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_214.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_214.npy",
     "conversations": [
       {
         "from": "human",
@@ -1055,7 +1055,7 @@
   },
   {
     "id": "22_fbaff4e6f3ee3bba6d50e8ef2e4c0029",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_162.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_162.npy",
     "conversations": [
       {
         "from": "human",
@@ -1109,7 +1109,7 @@
   },
   {
     "id": "23_ec5734d97f1dcc2e0720639c34b395e4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_154.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_154.npy",
     "conversations": [
       {
         "from": "human",
@@ -1163,7 +1163,7 @@
   },
   {
     "id": "24_c2869b62c696f90ec79bba82745c40d8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_247.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_247.npy",
     "conversations": [
       {
         "from": "human",
@@ -1217,7 +1217,7 @@
   },
   {
     "id": "25_a583a2abddb5c08d02b86582f981819f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_228.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_228.npy",
     "conversations": [
       {
         "from": "human",
@@ -1263,7 +1263,7 @@
   },
   {
     "id": "26_310fb47bf0ebb450bd83b2105e2e2ce9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_135.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_135.npy",
     "conversations": [
       {
         "from": "human",
@@ -1309,7 +1309,7 @@
   },
   {
     "id": "27_5e9e209f1667176d074488f89abad978",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_254.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_254.npy",
     "conversations": [
       {
         "from": "human",
@@ -1355,7 +1355,7 @@
   },
   {
     "id": "28_78f49f2af90e2028eee45afbd431286f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_302.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_302.npy",
     "conversations": [
       {
         "from": "human",
@@ -1409,7 +1409,7 @@
   },
   {
     "id": "29_313b8d5af29e177ee2234cb9fc73a81b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_209.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_209.npy",
     "conversations": [
       {
         "from": "human",
@@ -1463,7 +1463,7 @@
   },
   {
     "id": "30_c57520b1fc968f81e239fba67eb288cc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_245.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_245.npy",
     "conversations": [
       {
         "from": "human",
@@ -1517,7 +1517,7 @@
   },
   {
     "id": "31_cd902e0977cebc45c1f8834a74b94f12",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_174.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_174.npy",
     "conversations": [
       {
         "from": "human",
@@ -1563,7 +1563,7 @@
   },
   {
     "id": "32_7ba2ec83e7c454121d24f0a8c4c2962d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_223.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_223.npy",
     "conversations": [
       {
         "from": "human",
@@ -1609,7 +1609,7 @@
   },
   {
     "id": "33_00c5ffe927e52a89c95feeb15ceca06a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_134.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_134.npy",
     "conversations": [
       {
         "from": "human",
@@ -1655,7 +1655,7 @@
   },
   {
     "id": "34_8759e767b22258d041ee296a5205d6a7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_215.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_215.npy",
     "conversations": [
       {
         "from": "human",
@@ -1701,7 +1701,7 @@
   },
   {
     "id": "35_ab980438533f310ba464b07bfbf4ad26",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_225.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_225.npy",
     "conversations": [
       {
         "from": "human",
@@ -1747,7 +1747,7 @@
   },
   {
     "id": "36_588159270b5afc06ae37e2bc30759b5e",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_226.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_226.npy",
     "conversations": [
       {
         "from": "human",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": "37_0f365b2c3f842260fe08f4b7fc62e893",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_326.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_326.npy",
     "conversations": [
       {
         "from": "human",
@@ -1855,7 +1855,7 @@
   },
   {
     "id": "38_d3cd3bddc3a3350e0e9a862d52fae3ab",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_284.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_284.npy",
     "conversations": [
       {
         "from": "human",
@@ -1901,7 +1901,7 @@
   },
   {
     "id": "39_e686fa84fca270fafd9dcdd12a1e1cab",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_283.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_283.npy",
     "conversations": [
       {
         "from": "human",
@@ -1947,7 +1947,7 @@
   },
   {
     "id": "40_c6fd7a8649f56018fe6073d2c9fa468d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_153.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_153.npy",
     "conversations": [
       {
         "from": "human",
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "41_4cc623bbeadebc55fe43d5a42cc84306",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_334.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_334.npy",
     "conversations": [
       {
         "from": "human",
@@ -2055,7 +2055,7 @@
   },
   {
     "id": "42_a2bd2c0c4d5fc6ad6036d0c34ebe3e57",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_318.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_318.npy",
     "conversations": [
       {
         "from": "human",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": "43_6cb51f75a7e6a7e7c09a6d4336a7df79",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_49.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_49.npy",
     "conversations": [
       {
         "from": "human",
@@ -2147,7 +2147,7 @@
   },
   {
     "id": "44_19572e3d99f6db8fc421cdd68879c473",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_189.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_189.npy",
     "conversations": [
       {
         "from": "human",
@@ -2193,7 +2193,7 @@
   },
   {
     "id": "45_cfd0da1597b29895ebb24469034de4bc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_239.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_239.npy",
     "conversations": [
       {
         "from": "human",
@@ -2255,7 +2255,7 @@
   },
   {
     "id": "46_233f7f09b021eaea4a0a5ff28f650d8d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_312.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_312.npy",
     "conversations": [
       {
         "from": "human",
@@ -2301,7 +2301,7 @@
   },
   {
     "id": "47_dab4304434ab2303dc95ab7335e3c1ff",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_142.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_142.npy",
     "conversations": [
       {
         "from": "human",
@@ -2355,7 +2355,7 @@
   },
   {
     "id": "48_894fb9d1c2303dad4582299e0a125c81",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_244.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_244.npy",
     "conversations": [
       {
         "from": "human",
@@ -2409,7 +2409,7 @@
   },
   {
     "id": "49_2fc32ee613033c6cfa8e65e0a247e58b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_233.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_233.npy",
     "conversations": [
       {
         "from": "human",
@@ -2463,7 +2463,7 @@
   },
   {
     "id": "50_931bc58a1ab1bb145d028f2adffc9144",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_17_patient_193.npy",
+    "image": "THANG 3/images/head_neck/day_17_patient_193.npy",
     "conversations": [
       {
         "from": "human",
@@ -2509,7 +2509,7 @@
   },
   {
     "id": "51_a7b86e8d555ae5d6dea91d45798b46d1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_252.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_252.npy",
     "conversations": [
       {
         "from": "human",
@@ -2555,7 +2555,7 @@
   },
   {
     "id": "52_78d97906f324cedfa3a6df3aaead9fa6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_187.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_187.npy",
     "conversations": [
       {
         "from": "human",
@@ -2609,7 +2609,7 @@
   },
   {
     "id": "53_ac2866fff02804a037a1b56258b52f72",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_219.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_219.npy",
     "conversations": [
       {
         "from": "human",
@@ -2663,7 +2663,7 @@
   },
   {
     "id": "54_0dbd7ba5bac2caa6554034768d3dc7b3",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_140.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_140.npy",
     "conversations": [
       {
         "from": "human",
@@ -2717,7 +2717,7 @@
   },
   {
     "id": "55_519f0d48aaab6f305e87ce434513ec6a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_281.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_281.npy",
     "conversations": [
       {
         "from": "human",
@@ -2763,7 +2763,7 @@
   },
   {
     "id": "56_8c6caea747c15daed21de70e29284698",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_146.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_146.npy",
     "conversations": [
       {
         "from": "human",
@@ -2817,7 +2817,7 @@
   },
   {
     "id": "57_9684f7a71f271cbcf78a44394dfb6596",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_311.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_311.npy",
     "conversations": [
       {
         "from": "human",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": "58_54378b38a01f076219b567dd1efa1c96",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_179.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_179.npy",
     "conversations": [
       {
         "from": "human",
@@ -2933,7 +2933,7 @@
   },
   {
     "id": "59_e7396a753269f91e26c260b8ce19c734",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_176.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_176.npy",
     "conversations": [
       {
         "from": "human",
@@ -2979,7 +2979,7 @@
   },
   {
     "id": "60_a748e8cddc99d317210de6e4fa8b18a2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_292.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_292.npy",
     "conversations": [
       {
         "from": "human",
@@ -3025,7 +3025,7 @@
   },
   {
     "id": "61_67d4d295a3a917b4e8b91a10adb8e501",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_288.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_288.npy",
     "conversations": [
       {
         "from": "human",
@@ -3087,7 +3087,7 @@
   },
   {
     "id": "62_6a98c90cc9f1350fdf1502d0bce5c8b1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_325.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_325.npy",
     "conversations": [
       {
         "from": "human",
@@ -3141,7 +3141,7 @@
   },
   {
     "id": "63_828643e1b8150194d47f6909ef0c3c25",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_323.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_323.npy",
     "conversations": [
       {
         "from": "human",
@@ -3203,7 +3203,7 @@
   },
   {
     "id": "64_ac2a49813d18b1a0fb114992677365b6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_138.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_138.npy",
     "conversations": [
       {
         "from": "human",
@@ -3257,7 +3257,7 @@
   },
   {
     "id": "65_bc285a11f2586d452e40238051984039",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_145.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_145.npy",
     "conversations": [
       {
         "from": "human",
@@ -3311,7 +3311,7 @@
   },
   {
     "id": "66_efba961642495f91ee4a10c8a801f320",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_155.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_155.npy",
     "conversations": [
       {
         "from": "human",
@@ -3357,7 +3357,7 @@
   },
   {
     "id": "67_f6b5282f6b985d5e8726e8aab6464210",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_204.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_204.npy",
     "conversations": [
       {
         "from": "human",
@@ -3411,7 +3411,7 @@
   },
   {
     "id": "68_c581248a35013dc9be4ee54133d95bc1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_17_patient_194.npy",
+    "image": "THANG 3/images/head_neck/day_17_patient_194.npy",
     "conversations": [
       {
         "from": "human",
@@ -3465,7 +3465,7 @@
   },
   {
     "id": "69_1602f2f728a3e6c3c074b7b85151fba9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_291.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_291.npy",
     "conversations": [
       {
         "from": "human",
@@ -3511,7 +3511,7 @@
   },
   {
     "id": "70_542d7acf53b2dc1f253889e74bfc10f2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_163.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_163.npy",
     "conversations": [
       {
         "from": "human",
@@ -3565,7 +3565,7 @@
   },
   {
     "id": "71_4ca42f56ef10a3156b411f6cf55cef40",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_241.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_241.npy",
     "conversations": [
       {
         "from": "human",
@@ -3619,7 +3619,7 @@
   },
   {
     "id": "72_3eabc411248892d0da94ccbcc6f5b5e2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_148.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_148.npy",
     "conversations": [
       {
         "from": "human",
@@ -3665,7 +3665,7 @@
   },
   {
     "id": "73_d4eb8129f80f9949ac430d93fe817393",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_255.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_255.npy",
     "conversations": [
       {
         "from": "human",
@@ -3719,7 +3719,7 @@
   },
   {
     "id": "74_6ca301db1b09de3d9f1eee6e90382eff",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_161.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_161.npy",
     "conversations": [
       {
         "from": "human",
@@ -3765,7 +3765,7 @@
   },
   {
     "id": "75_207fecf4586562dff1d5374cedc6f6e9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_306.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_306.npy",
     "conversations": [
       {
         "from": "human",
@@ -3811,7 +3811,7 @@
   },
   {
     "id": "76_97ca3c2ed379114e1d2ab4c920971b20",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_329.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_329.npy",
     "conversations": [
       {
         "from": "human",
@@ -3865,7 +3865,7 @@
   },
   {
     "id": "77_f34800c7cde49eeadf0d33d3115b61d6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_137.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_137.npy",
     "conversations": [
       {
         "from": "human",
@@ -3911,7 +3911,7 @@
   },
   {
     "id": "78_e3d5a1fa0ec502ed89b3135fd8270520",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_275.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_275.npy",
     "conversations": [
       {
         "from": "human",
@@ -3965,7 +3965,7 @@
   },
   {
     "id": "79_f0ca1b5b2f7a6669ba5711a31da2313b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_330.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_330.npy",
     "conversations": [
       {
         "from": "human",
@@ -4019,7 +4019,7 @@
   },
   {
     "id": "80_a8d2f955641c0b278fe94cf99266bff4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_263.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_263.npy",
     "conversations": [
       {
         "from": "human",
@@ -4073,7 +4073,7 @@
   },
   {
     "id": "81_5f73eae32543d0213fcdd2c412e863dd",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_278.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_278.npy",
     "conversations": [
       {
         "from": "human",
@@ -4119,7 +4119,7 @@
   },
   {
     "id": "82_c4610128589379c3f265b9375330ca15",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_238.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_238.npy",
     "conversations": [
       {
         "from": "human",
@@ -4165,7 +4165,7 @@
   },
   {
     "id": "83_249f215b2ab7b9b1dbd9b6cc61218929",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_328.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_328.npy",
     "conversations": [
       {
         "from": "human",
@@ -4211,7 +4211,7 @@
   },
   {
     "id": "84_a1950d2607f38542fba8804ed11d158f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_287.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_287.npy",
     "conversations": [
       {
         "from": "human",
@@ -4265,7 +4265,7 @@
   },
   {
     "id": "85_51e951207f6165a3643dbe41665f32f7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_324.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_324.npy",
     "conversations": [
       {
         "from": "human",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": "86_442d321b619f43240c191bf24a24bfe4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_151.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_151.npy",
     "conversations": [
       {
         "from": "human",
@@ -4373,7 +4373,7 @@
   },
   {
     "id": "87_6291cc72598ca5227b775ee1de91be3a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_251.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_251.npy",
     "conversations": [
       {
         "from": "human",
@@ -4427,7 +4427,7 @@
   },
   {
     "id": "88_d5a6347b388300f90d398c9c105ff885",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_203.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_203.npy",
     "conversations": [
       {
         "from": "human",
@@ -4481,7 +4481,7 @@
   },
   {
     "id": "89_b9def158307b994ccc54dfbca739bb50",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_240.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_240.npy",
     "conversations": [
       {
         "from": "human",
@@ -4535,7 +4535,7 @@
   },
   {
     "id": "90_3d944b0cc61b762dcb63c1c85f7e9ce4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_297.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_297.npy",
     "conversations": [
       {
         "from": "human",
@@ -4581,7 +4581,7 @@
   },
   {
     "id": "91_2279cf6ded6aa2749057db0edc8a2ad3",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_178.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_178.npy",
     "conversations": [
       {
         "from": "human",
@@ -4643,7 +4643,7 @@
   },
   {
     "id": "92_03fa52a8a7385524c9c1106e7c88523d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_157.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_157.npy",
     "conversations": [
       {
         "from": "human",
@@ -4705,7 +4705,7 @@
   },
   {
     "id": "93_d0b94458b70a1c63d24141167cc4e249",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_277.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_277.npy",
     "conversations": [
       {
         "from": "human",
@@ -4759,7 +4759,7 @@
   },
   {
     "id": "94_8806de5da252ce7833d2a6cb90d3ae7a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_260.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_260.npy",
     "conversations": [
       {
         "from": "human",
@@ -4805,7 +4805,7 @@
   },
   {
     "id": "95_2950533d14ba401088ce674b1d8698a4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_274.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_274.npy",
     "conversations": [
       {
         "from": "human",
@@ -4859,7 +4859,7 @@
   },
   {
     "id": "96_d5378557e1a4882aaaa4043e63e33855",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_321.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_321.npy",
     "conversations": [
       {
         "from": "human",
@@ -4905,7 +4905,7 @@
   },
   {
     "id": "97_6578dfe5aa8f8ae767a34fdc800d2fa5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_285.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_285.npy",
     "conversations": [
       {
         "from": "human",
@@ -4959,7 +4959,7 @@
   },
   {
     "id": "98_e33982e31ae1b9aa42208610f977be37",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_332.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_332.npy",
     "conversations": [
       {
         "from": "human",
@@ -4997,7 +4997,7 @@
   },
   {
     "id": "99_c4e11bd72d6855ebe0d20b2ca06540dd",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_172.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_172.npy",
     "conversations": [
       {
         "from": "human",
@@ -5043,7 +5043,7 @@
   },
   {
     "id": "100_3f301a58cc3c11e04fe8bc9737d5eef2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_308.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_308.npy",
     "conversations": [
       {
         "from": "human",
@@ -5097,7 +5097,7 @@
   },
   {
     "id": "101_f733f1ee91c5b127ddf6984f4a9e2628",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_282.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_282.npy",
     "conversations": [
       {
         "from": "human",
@@ -5143,7 +5143,7 @@
   },
   {
     "id": "102_4e30dd2b5045c77f8f487757230ea713",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_222.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_222.npy",
     "conversations": [
       {
         "from": "human",
@@ -5197,7 +5197,7 @@
   },
   {
     "id": "103_e3101364f3b9d91ffb98650dab9ddf53",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_208.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_208.npy",
     "conversations": [
       {
         "from": "human",
@@ -5243,7 +5243,7 @@
   },
   {
     "id": "104_ece49dc49366455b50f86d1157cd702f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_314.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_314.npy",
     "conversations": [
       {
         "from": "human",
@@ -5297,7 +5297,7 @@
   },
   {
     "id": "105_217a368ecfd128daee2445dc63497c1c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_335.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_335.npy",
     "conversations": [
       {
         "from": "human",
@@ -5343,7 +5343,7 @@
   },
   {
     "id": "106_9fa365604d8be6dbd075eb49d0901c50",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_198.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_198.npy",
     "conversations": [
       {
         "from": "human",
@@ -5389,7 +5389,7 @@
   },
   {
     "id": "107_97d4889bf4968ec717ef454e29937862",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_264.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_264.npy",
     "conversations": [
       {
         "from": "human",
@@ -5443,7 +5443,7 @@
   },
   {
     "id": "108_fea50bfb10b6e12dee52c513a1a3c03a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_180.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_180.npy",
     "conversations": [
       {
         "from": "human",
@@ -5489,7 +5489,7 @@
   },
   {
     "id": "109_dcdd1b3fc1a8d73c5156ae63b3260d66",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_249.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_249.npy",
     "conversations": [
       {
         "from": "human",
@@ -5543,7 +5543,7 @@
   },
   {
     "id": "110_a0b1d2c3a00766004f050785376a5164",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_250.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_250.npy",
     "conversations": [
       {
         "from": "human",
@@ -5597,7 +5597,7 @@
   },
   {
     "id": "111_71d6665b969ce48d6a705236f575716a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_139.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_139.npy",
     "conversations": [
       {
         "from": "human",
@@ -5643,7 +5643,7 @@
   },
   {
     "id": "112_92d80f2c748ee51ead45014e46b6b9d9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_206.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_206.npy",
     "conversations": [
       {
         "from": "human",
@@ -5697,7 +5697,7 @@
   },
   {
     "id": "113_566fd8706d36360af4179d0d3d263d41",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_183.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_183.npy",
     "conversations": [
       {
         "from": "human",
@@ -5751,7 +5751,7 @@
   },
   {
     "id": "114_0544d4d89a45f298de39bdc7555e87a6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_147.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_147.npy",
     "conversations": [
       {
         "from": "human",
@@ -5805,7 +5805,7 @@
   },
   {
     "id": "115_85094e0c76301f445f36402eca80aa42",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_236.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_236.npy",
     "conversations": [
       {
         "from": "human",
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "116_458b51700be91fe0c764940b9f684a4c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_316.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_316.npy",
     "conversations": [
       {
         "from": "human",
@@ -5905,7 +5905,7 @@
   },
   {
     "id": "117_da5d92478d64273103c3e31ffd1346bc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_173.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_173.npy",
     "conversations": [
       {
         "from": "human",
@@ -5951,7 +5951,7 @@
   },
   {
     "id": "118_c5692f3e1c24beb68f068d372f52c009",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_270.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_270.npy",
     "conversations": [
       {
         "from": "human",
@@ -6005,7 +6005,7 @@
   },
   {
     "id": "119_a92de540a77ba085bc4a35179fe679fa",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_143.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_143.npy",
     "conversations": [
       {
         "from": "human",
@@ -6059,7 +6059,7 @@
   },
   {
     "id": "120_b4392d136f9f06265f7b964283e5d29e",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_197.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_197.npy",
     "conversations": [
       {
         "from": "human",
@@ -6113,7 +6113,7 @@
   },
   {
     "id": "121_48acee4c38ed8dd126166b88c6b59877",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_202.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_202.npy",
     "conversations": [
       {
         "from": "human",
@@ -6167,7 +6167,7 @@
   },
   {
     "id": "122_88cd8371f764aa14475935c0cecd08e2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_303.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_303.npy",
     "conversations": [
       {
         "from": "human",
@@ -6221,7 +6221,7 @@
   },
   {
     "id": "123_ef99546a8e02b82fff02ff9b9b2d01b9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_296.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_296.npy",
     "conversations": [
       {
         "from": "human",
@@ -6267,7 +6267,7 @@
   },
   {
     "id": "124_cd2c2e55093361145ab2b55ba4ee0ff2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_320.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_320.npy",
     "conversations": [
       {
         "from": "human",
@@ -6321,7 +6321,7 @@
   },
   {
     "id": "125_c09c9b8de55be79aa11234b21e240658",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_24_patient_246.npy",
+    "image": "THANG 3/images/head_neck/day_24_patient_246.npy",
     "conversations": [
       {
         "from": "human",
@@ -6375,7 +6375,7 @@
   },
   {
     "id": "126_26d4828528ab73ff0426907499843f66",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_133.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_133.npy",
     "conversations": [
       {
         "from": "human",
@@ -6429,7 +6429,7 @@
   },
   {
     "id": "127_f2a055bc5572de764da69bfabd11df9d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_293.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_293.npy",
     "conversations": [
       {
         "from": "human",
@@ -6475,7 +6475,7 @@
   },
   {
     "id": "128_21a2cbf822fec6d191cb884effb5bd1d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_309.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_309.npy",
     "conversations": [
       {
         "from": "human",
@@ -6521,7 +6521,7 @@
   },
   {
     "id": "129_1b3de49dc2d7c8a454d829b0090d80a7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_280.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_280.npy",
     "conversations": [
       {
         "from": "human",
@@ -6567,7 +6567,7 @@
   },
   {
     "id": "130_6b3a8f2c4b49ee297b8489e938ae8ded",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_232.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_232.npy",
     "conversations": [
       {
         "from": "human",
@@ -6621,7 +6621,7 @@
   },
   {
     "id": "131_10b1937a237403a316242b05441814c9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_269.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_269.npy",
     "conversations": [
       {
         "from": "human",
@@ -6675,7 +6675,7 @@
   },
   {
     "id": "132_9c59ca809a8fe1359b6053af260f51bf",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_307.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_307.npy",
     "conversations": [
       {
         "from": "human",
@@ -6721,7 +6721,7 @@
   },
   {
     "id": "133_e152156eecbf330cb5ff6ce245512036",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_331.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_331.npy",
     "conversations": [
       {
         "from": "human",
@@ -6775,7 +6775,7 @@
   },
   {
     "id": "134_7eeaed0e66de7e6b2d5699da6b47792e",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_149.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_149.npy",
     "conversations": [
       {
         "from": "human",
@@ -6821,7 +6821,7 @@
   },
   {
     "id": "135_b5f18fee1013c29d8445fb271aac1f23",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_17_patient_195.npy",
+    "image": "THANG 3/images/head_neck/day_17_patient_195.npy",
     "conversations": [
       {
         "from": "human",
@@ -6875,7 +6875,7 @@
   },
   {
     "id": "136_0235841ad3d915296ba947152014afa2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_218.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_218.npy",
     "conversations": [
       {
         "from": "human",
@@ -6921,7 +6921,7 @@
   },
   {
     "id": "137_4c9055cdf770b33dab98786493e79e85",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_294.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_294.npy",
     "conversations": [
       {
         "from": "human",
@@ -6975,7 +6975,7 @@
   },
   {
     "id": "138_e6dfa5a24548253efaff082f3e48eb32",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_304.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_304.npy",
     "conversations": [
       {
         "from": "human",
@@ -7029,7 +7029,7 @@
   },
   {
     "id": "139_f584f189e61253438fa2b66b2588ceee",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_181.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_181.npy",
     "conversations": [
       {
         "from": "human",
@@ -7075,7 +7075,7 @@
   },
   {
     "id": "140_61516bb9c656308b3880c0f25ef7ff33",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_156.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_156.npy",
     "conversations": [
       {
         "from": "human",
@@ -7129,7 +7129,7 @@
   },
   {
     "id": "141_3fc27e021e252689776ab56980f32ec9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_290.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_290.npy",
     "conversations": [
       {
         "from": "human",
@@ -7183,7 +7183,7 @@
   },
   {
     "id": "142_372ec45db31627847c5ba64e96afe171",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_237.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_237.npy",
     "conversations": [
       {
         "from": "human",
@@ -7237,7 +7237,7 @@
   },
   {
     "id": "143_6cc6d38cc050a7266f9717292c0e76c6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_136.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_136.npy",
     "conversations": [
       {
         "from": "human",
@@ -7283,7 +7283,7 @@
   },
   {
     "id": "144_d29e7f9920d36ab9273df9414e51d80f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_310.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_310.npy",
     "conversations": [
       {
         "from": "human",
@@ -7337,7 +7337,7 @@
   },
   {
     "id": "145_e484fe0e7172e236b3b01cdde0cfd7a9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_17_patient_192.npy",
+    "image": "THANG 3/images/head_neck/day_17_patient_192.npy",
     "conversations": [
       {
         "from": "human",
@@ -7383,7 +7383,7 @@
   },
   {
     "id": "146_ca737bcd5eccdcfb28f3b2f0ee3af995",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_165.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_165.npy",
     "conversations": [
       {
         "from": "human",
@@ -7445,7 +7445,7 @@
   },
   {
     "id": "147_69e8eb7264b1ce5c32da6aee7c86cedb",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_159.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_159.npy",
     "conversations": [
       {
         "from": "human",
@@ -7499,7 +7499,7 @@
   },
   {
     "id": "148_351bb37f67e95af1e5d7fc527129b5fa",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_216.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_216.npy",
     "conversations": [
       {
         "from": "human",
@@ -7553,7 +7553,7 @@
   },
   {
     "id": "149_6a89eb5007e279115f4dc2a2b7ade0b7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_262.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_262.npy",
     "conversations": [
       {
         "from": "human",
@@ -7615,7 +7615,7 @@
   },
   {
     "id": "150_a0041d2e5a9bbc28695758ec14e0d5f8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_256.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_256.npy",
     "conversations": [
       {
         "from": "human",
@@ -7669,7 +7669,7 @@
   },
   {
     "id": "151_aa299a80c5c4499ca45685a31c210d65",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_248.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_248.npy",
     "conversations": [
       {
         "from": "human",
@@ -7715,7 +7715,7 @@
   },
   {
     "id": "152_42aae04d989810fc8b287b5474bd1cee",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_175.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_175.npy",
     "conversations": [
       {
         "from": "human",
@@ -7769,7 +7769,7 @@
   },
   {
     "id": "153_a868b6d62f0e1993eff69664d7043af5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_319.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_319.npy",
     "conversations": [
       {
         "from": "human",
@@ -7831,7 +7831,7 @@
   },
   {
     "id": "154_4a34a59376f7535cb777f7a2fe4e5a92",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_201.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_201.npy",
     "conversations": [
       {
         "from": "human",
@@ -7885,7 +7885,7 @@
   },
   {
     "id": "155_975522a6e51f9af355865b86829e6dbc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_217.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_217.npy",
     "conversations": [
       {
         "from": "human",
@@ -7931,7 +7931,7 @@
   },
   {
     "id": "156_7a62942a17e95428c839299827e2e18a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_211.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_211.npy",
     "conversations": [
       {
         "from": "human",
@@ -7977,7 +7977,7 @@
   },
   {
     "id": "157_97876918d1f09c4c6e5925ba9f13d946",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_299.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_299.npy",
     "conversations": [
       {
         "from": "human",
@@ -8031,7 +8031,7 @@
   },
   {
     "id": "158_950436cd3cf1de03af634d78602f510d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_184.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_184.npy",
     "conversations": [
       {
         "from": "human",
@@ -8085,7 +8085,7 @@
   },
   {
     "id": "159_a7dca73493f16e52087d4c646ba9727b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_300.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_300.npy",
     "conversations": [
       {
         "from": "human",
@@ -8147,7 +8147,7 @@
   },
   {
     "id": "160_02360fc16585990ae2a6e1b28310d041",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_188.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_188.npy",
     "conversations": [
       {
         "from": "human",
@@ -8201,7 +8201,7 @@
   },
   {
     "id": "161_599ca38ab993d484028d2a5cc43da15c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_295.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_295.npy",
     "conversations": [
       {
         "from": "human",
@@ -8247,7 +8247,7 @@
   },
   {
     "id": "162_48533b6c8f807047dec2b13d6b40d8c0",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_234.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_234.npy",
     "conversations": [
       {
         "from": "human",
@@ -8301,7 +8301,7 @@
   },
   {
     "id": "163_4ac3bfc42ed10bd04239911f73b628d9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_227.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_227.npy",
     "conversations": [
       {
         "from": "human",
@@ -8363,7 +8363,7 @@
   },
   {
     "id": "164_741eef953eb6ce81cf9b550e3e42cd39",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_313.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_313.npy",
     "conversations": [
       {
         "from": "human",
@@ -8409,7 +8409,7 @@
   },
   {
     "id": "165_33eef5be01b44f9158110e23b41c9e5b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_144.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_144.npy",
     "conversations": [
       {
         "from": "human",
@@ -8463,7 +8463,7 @@
   },
   {
     "id": "166_54738de45917e8335bfe5df46c6fc2dd",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_9_patient_333.npy",
+    "image": "THANG 3/images/head_neck/day_9_patient_333.npy",
     "conversations": [
       {
         "from": "human",
@@ -8509,7 +8509,7 @@
   },
   {
     "id": "167_1e2e9a40e3fdc0b52c8d007c3d6323a3",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_164.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_164.npy",
     "conversations": [
       {
         "from": "human",
@@ -8563,7 +8563,7 @@
   },
   {
     "id": "168_d69da38ecd760543b899fa11e04b9a87",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_212.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_212.npy",
     "conversations": [
       {
         "from": "human",
@@ -8617,7 +8617,7 @@
   },
   {
     "id": "169_6bf8125425aae44c5f05e2f33569a737",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_168.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_168.npy",
     "conversations": [
       {
         "from": "human",
@@ -8663,7 +8663,7 @@
   },
   {
     "id": "170_02c7d95a941a2ac0ef54a1647c9c8e94",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_207.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_207.npy",
     "conversations": [
       {
         "from": "human",
@@ -8709,7 +8709,7 @@
   },
   {
     "id": "171_199e61fc498c5e396c7abb1a240f9f05",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_23_patient_230.npy",
+    "image": "THANG 3/images/head_neck/day_23_patient_230.npy",
     "conversations": [
       {
         "from": "human",
@@ -8755,7 +8755,7 @@
   },
   {
     "id": "172_624b5d7ae81791f4847c02567f0c9e71",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_31_patient_298.npy",
+    "image": "THANG 3/images/head_neck/day_31_patient_298.npy",
     "conversations": [
       {
         "from": "human",
@@ -8809,7 +8809,7 @@
   },
   {
     "id": "173_09ec76d051dade87ad72397babd388af",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_221.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_221.npy",
     "conversations": [
       {
         "from": "human",
@@ -8863,7 +8863,7 @@
   },
   {
     "id": "174_d415da9f3849cd5dcb6bb3579734ac7c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_16_patient_191.npy",
+    "image": "THANG 3/images/head_neck/day_16_patient_191.npy",
     "conversations": [
       {
         "from": "human",
@@ -8925,7 +8925,7 @@
   },
   {
     "id": "175_27cc50fa20eb795dae964f6e56e51f36",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_273.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_273.npy",
     "conversations": [
       {
         "from": "human",
@@ -8979,7 +8979,7 @@
   },
   {
     "id": "176_95804a3495b1a928ed46e9ef22844a46",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_276.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_276.npy",
     "conversations": [
       {
         "from": "human",
@@ -9025,7 +9025,7 @@
   },
   {
     "id": "177_0db2a0c3ff3d4ac5eabda9a52f71e660",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_224.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_224.npy",
     "conversations": [
       {
         "from": "human",
@@ -9071,7 +9071,7 @@
   },
   {
     "id": "178_195d01cd8ff040ab1ecf0b5c43d0980b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_10_patient_152.npy",
+    "image": "THANG 3/images/head_neck/day_10_patient_152.npy",
     "conversations": [
       {
         "from": "human",
@@ -9125,7 +9125,7 @@
   },
   {
     "id": "179_9ac751cd012d78b19b956ae8c71990b5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_22_patient_229.npy",
+    "image": "THANG 3/images/head_neck/day_22_patient_229.npy",
     "conversations": [
       {
         "from": "human",
@@ -9179,7 +9179,7 @@
   },
   {
     "id": "180_06a38ac025eb9e470f2cdc19394953b1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_1_patient_141.npy",
+    "image": "THANG 3/images/head_neck/day_1_patient_141.npy",
     "conversations": [
       {
         "from": "human",
@@ -9233,7 +9233,7 @@
   },
   {
     "id": "181_03222a2f17ff85a5ffff96321d1c6c5a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_199.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_199.npy",
     "conversations": [
       {
         "from": "human",
@@ -9287,7 +9287,7 @@
   },
   {
     "id": "182_413a0d9ba9668d5e4dd6b76df78d7098",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_317.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_317.npy",
     "conversations": [
       {
         "from": "human",
@@ -9333,7 +9333,7 @@
   },
   {
     "id": "183_6da532aaf0b910ab7e40b69c483404be",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_30_patient_289.npy",
+    "image": "THANG 3/images/head_neck/day_30_patient_289.npy",
     "conversations": [
       {
         "from": "human",
@@ -9387,7 +9387,7 @@
   },
   {
     "id": "184_5b6ea75b1bea1a4c90531bf57f73a709",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_213.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_213.npy",
     "conversations": [
       {
         "from": "human",
@@ -9441,7 +9441,7 @@
   },
   {
     "id": "185_ede0929a54233d6a66843902af36ed43",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_170.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_170.npy",
     "conversations": [
       {
         "from": "human",
@@ -9487,7 +9487,7 @@
   },
   {
     "id": "186_f59863375c38ad7461fd4ad0bc824bcc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_8_patient_322.npy",
+    "image": "THANG 3/images/head_neck/day_8_patient_322.npy",
     "conversations": [
       {
         "from": "human",
@@ -9533,7 +9533,7 @@
   },
   {
     "id": "187_c7b2b17c92cf3969088de819510c27b6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_75.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_75.npy",
     "conversations": [
       {
         "from": "human",
@@ -9587,7 +9587,7 @@
   },
   {
     "id": "188_b4a602454f34fe418383000560d74642",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_271.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_271.npy",
     "conversations": [
       {
         "from": "human",
@@ -9625,7 +9625,7 @@
   },
   {
     "id": "189_dcf3bf4054440aad0ef6410cd9e6a86d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_28_patient_257.npy",
+    "image": "THANG 3/images/head_neck/day_28_patient_257.npy",
     "conversations": [
       {
         "from": "human",
@@ -9671,7 +9671,7 @@
   },
   {
     "id": "190_f3952f7cfb0b65d11a69562fb85d062b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_14_patient_160.npy",
+    "image": "THANG 3/images/head_neck/day_14_patient_160.npy",
     "conversations": [
       {
         "from": "human",
@@ -9725,7 +9725,7 @@
   },
   {
     "id": "191_759d35f8a33ff30a4b9c73a081cee945",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_2_patient_205.npy",
+    "image": "THANG 3/images/head_neck/day_2_patient_205.npy",
     "conversations": [
       {
         "from": "human",
@@ -9771,7 +9771,7 @@
   },
   {
     "id": "192_37d94ad50e78c335aecc988410f3bd42",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_21_patient_210.npy",
+    "image": "THANG 3/images/head_neck/day_21_patient_210.npy",
     "conversations": [
       {
         "from": "human",
@@ -9825,7 +9825,7 @@
   },
   {
     "id": "193_8a117b8f760eec21675b463629075947",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_171.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_171.npy",
     "conversations": [
       {
         "from": "human",
@@ -9879,7 +9879,7 @@
   },
   {
     "id": "194_ad06b7f33e25113f1ff46ae7c7ad7b4c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_167.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_167.npy",
     "conversations": [
       {
         "from": "human",
@@ -9925,7 +9925,7 @@
   },
   {
     "id": "195_a278345389057f28040acd39cd970960",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_7_patient_301.npy",
+    "image": "THANG 3/images/head_neck/day_7_patient_301.npy",
     "conversations": [
       {
         "from": "human",
@@ -9971,7 +9971,7 @@
   },
   {
     "id": "196_44e748afd38db77b7132d99c56f08b01",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_15_patient_169.npy",
+    "image": "THANG 3/images/head_neck/day_15_patient_169.npy",
     "conversations": [
       {
         "from": "human",
@@ -10025,7 +10025,7 @@
   },
   {
     "id": "197_0759d941f886253135b78df04399426a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_3_patient_279.npy",
+    "image": "THANG 3/images/head_neck/day_3_patient_279.npy",
     "conversations": [
       {
         "from": "human",
@@ -10079,7 +10079,7 @@
   },
   {
     "id": "198_74af819675e39275002917c6d51a6353",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/head_neck/day_29_patient_261.npy",
+    "image": "THANG 3/images/head_neck/day_29_patient_261.npy",
     "conversations": [
       {
         "from": "human",
@@ -10125,7 +10125,7 @@
   },
   {
     "id": "199_cd5078cce2479a24edf3eb6444dac4b8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_186.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_186.npy",
     "conversations": [
       {
         "from": "human",
@@ -10179,7 +10179,7 @@
   },
   {
     "id": "200_b863ca2e38b07cf19b6821f7ae2f4937",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_315.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_315.npy",
     "conversations": [
       {
         "from": "human",
@@ -10233,7 +10233,7 @@
   },
   {
     "id": "201_75dd99b86ea755e207c07125062c5bdc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_166.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_166.npy",
     "conversations": [
       {
         "from": "human",
@@ -10295,7 +10295,7 @@
   },
   {
     "id": "202_9f6ad6bd89bcbc322a13083f8a982ea0",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_327.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_327.npy",
     "conversations": [
       {
         "from": "human",
@@ -10349,7 +10349,7 @@
   },
   {
     "id": "203_f5d00617d722db7c3ef65111dea5c467",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_242.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_242.npy",
     "conversations": [
       {
         "from": "human",
@@ -10395,7 +10395,7 @@
   },
   {
     "id": "204_c42f9903a749d69ef5edcb01f55cd72e",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_265.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_265.npy",
     "conversations": [
       {
         "from": "human",
@@ -10457,7 +10457,7 @@
   },
   {
     "id": "205_bb35a03a725417fa16f22536a1fa00a0",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_17_patient_196.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_17_patient_196.npy",
     "conversations": [
       {
         "from": "human",
@@ -10519,7 +10519,7 @@
   },
   {
     "id": "206_f1281b066f7cce3fda67275cb9d880d8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_286.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_286.npy",
     "conversations": [
       {
         "from": "human",
@@ -10573,7 +10573,7 @@
   },
   {
     "id": "207_aaa37a738f3b8a6a829df9e94e5263d5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_185.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_185.npy",
     "conversations": [
       {
         "from": "human",
@@ -10635,7 +10635,7 @@
   },
   {
     "id": "208_05a61eb27fcf11fb37f17134ccf60de4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_23_patient_235.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_23_patient_235.npy",
     "conversations": [
       {
         "from": "human",
@@ -10705,7 +10705,7 @@
   },
   {
     "id": "209_0fadbd5132143ccac15cd50666d16b89",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_182.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_182.npy",
     "conversations": [
       {
         "from": "human",
@@ -10759,7 +10759,7 @@
   },
   {
     "id": "210_22c64b73ef1e7292dac05fb19efc6ed5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_259.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_259.npy",
     "conversations": [
       {
         "from": "human",
@@ -10837,7 +10837,7 @@
   },
   {
     "id": "211_68d6029e2adf34ac6557c875ee7e51fc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_22_patient_220.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_22_patient_220.npy",
     "conversations": [
       {
         "from": "human",
@@ -10891,7 +10891,7 @@
   },
   {
     "id": "212_3eaee1e3ee6b394c213eeaa79730c731",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_177.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_177.npy",
     "conversations": [
       {
         "from": "human",
@@ -10945,7 +10945,7 @@
   },
   {
     "id": "213_8ac5856e2de2331d9e7b63eba9fb9946",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_7_patient_305.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_7_patient_305.npy",
     "conversations": [
       {
         "from": "human",
@@ -11007,7 +11007,7 @@
   },
   {
     "id": "214_2bedb1ae76835b84989690a7f102e3b9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_258.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_258.npy",
     "conversations": [
       {
         "from": "human",
@@ -11093,7 +11093,7 @@
   },
   {
     "id": "215_a4c075517bd60113d6904df00a1169ec",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_267.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_267.npy",
     "conversations": [
       {
         "from": "human",
@@ -11139,7 +11139,7 @@
   },
   {
     "id": "216_aff8c93b7dadc9f8da38aa9195544a0c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_253.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_253.npy",
     "conversations": [
       {
         "from": "human",
@@ -11185,7 +11185,7 @@
   },
   {
     "id": "217_a7e2424cdedf312dfaea735b0c774e0b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_190.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_190.npy",
     "conversations": [
       {
         "from": "human",
@@ -11255,7 +11255,7 @@
   },
   {
     "id": "218_cd0f6ca7fd0a724446e9909599526926",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_23_patient_231.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_23_patient_231.npy",
     "conversations": [
       {
         "from": "human",
@@ -11309,7 +11309,7 @@
   },
   {
     "id": "219_58e2e227541a6f8d4a7717aa4c425b59",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_243.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_243.npy",
     "conversations": [
       {
         "from": "human",
@@ -11355,7 +11355,7 @@
   },
   {
     "id": "220_159e9c158dcbadee3b50c9a441aa74d9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_268.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_268.npy",
     "conversations": [
       {
         "from": "human",
@@ -11401,7 +11401,7 @@
   },
   {
     "id": "221_8f4973bfe846c6964b76673647bbe58b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_21_patient_214.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_21_patient_214.npy",
     "conversations": [
       {
         "from": "human",
@@ -11455,7 +11455,7 @@
   },
   {
     "id": "222_077561a338d78bdcdd669935ba7bfb3e",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_162.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_162.npy",
     "conversations": [
       {
         "from": "human",
@@ -11509,7 +11509,7 @@
   },
   {
     "id": "223_2edf600543152ccea1383ccf4cfa40b8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_154.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_154.npy",
     "conversations": [
       {
         "from": "human",
@@ -11563,7 +11563,7 @@
   },
   {
     "id": "224_c3726e0bfa504e9cc90aceb6d52661a8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_247.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_247.npy",
     "conversations": [
       {
         "from": "human",
@@ -11617,7 +11617,7 @@
   },
   {
     "id": "225_89245f6d8cc90c8a6ace9ba8e9526038",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_22_patient_228.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_22_patient_228.npy",
     "conversations": [
       {
         "from": "human",
@@ -11671,7 +11671,7 @@
   },
   {
     "id": "226_6a277b93ec5cf43c396652acff8d4b42",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_135.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_135.npy",
     "conversations": [
       {
         "from": "human",
@@ -11733,7 +11733,7 @@
   },
   {
     "id": "227_7c718b9c8c99c9411cce8761514fc0b3",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_254.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_254.npy",
     "conversations": [
       {
         "from": "human",
@@ -11779,7 +11779,7 @@
   },
   {
     "id": "228_0e7d527688a8ff8ae6cdd87debbd0620",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_7_patient_302.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_7_patient_302.npy",
     "conversations": [
       {
         "from": "human",
@@ -11841,7 +11841,7 @@
   },
   {
     "id": "229_29c2ce2efdebef1e8a9a03ef1bf888cf",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_150.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_150.npy",
     "conversations": [
       {
         "from": "human",
@@ -11887,7 +11887,7 @@
   },
   {
     "id": "230_c0d018abe153c53863da4c8de1207a2d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_2_patient_209.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_2_patient_209.npy",
     "conversations": [
       {
         "from": "human",
@@ -11941,7 +11941,7 @@
   },
   {
     "id": "231_d381775324730e91d6c94c96b85eb2db",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_245.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_245.npy",
     "conversations": [
       {
         "from": "human",
@@ -11987,7 +11987,7 @@
   },
   {
     "id": "232_9cb8ecaa30fded0e0361ebb3a42beac8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_174.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_174.npy",
     "conversations": [
       {
         "from": "human",
@@ -12065,7 +12065,7 @@
   },
   {
     "id": "233_234b73b18055fbe80bb3e74a08d39a94",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_22_patient_223.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_22_patient_223.npy",
     "conversations": [
       {
         "from": "human",
@@ -12119,7 +12119,7 @@
   },
   {
     "id": "234_b2fe1f8a704d69f47314a53d6250e80c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_134.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_134.npy",
     "conversations": [
       {
         "from": "human",
@@ -12165,7 +12165,7 @@
   },
   {
     "id": "235_71583206b2bc9d3b19bd3e9a8b163aea",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_21_patient_215.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_21_patient_215.npy",
     "conversations": [
       {
         "from": "human",
@@ -12219,7 +12219,7 @@
   },
   {
     "id": "236_f5c45b4118ff196688599d17ff1dc691",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_22_patient_226.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_22_patient_226.npy",
     "conversations": [
       {
         "from": "human",
@@ -12281,7 +12281,7 @@
   },
   {
     "id": "237_a6aab2a9ca59b17cb1c4732c2b95491c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_326.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_326.npy",
     "conversations": [
       {
         "from": "human",
@@ -12343,7 +12343,7 @@
   },
   {
     "id": "238_d5bcbba61d9fe7921878cc2fcb851084",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_284.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_284.npy",
     "conversations": [
       {
         "from": "human",
@@ -12397,7 +12397,7 @@
   },
   {
     "id": "239_e8a458a5d70c08059dbf823c839fe718",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_283.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_283.npy",
     "conversations": [
       {
         "from": "human",
@@ -12459,7 +12459,7 @@
   },
   {
     "id": "240_9b5bdf94b9c403c81b0366e42d56bb81",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_153.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_153.npy",
     "conversations": [
       {
         "from": "human",
@@ -12505,7 +12505,7 @@
   },
   {
     "id": "241_e93f489f0885b089cbddc03b56d8315a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_334.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_334.npy",
     "conversations": [
       {
         "from": "human",
@@ -12559,7 +12559,7 @@
   },
   {
     "id": "242_5bb3be3ac5a89488f5140cf34d214b00",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_318.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_318.npy",
     "conversations": [
       {
         "from": "human",
@@ -12605,7 +12605,7 @@
   },
   {
     "id": "243_93e6127aa6f6a70aa3343619732f644b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_49.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_49.npy",
     "conversations": [
       {
         "from": "human",
@@ -12683,7 +12683,7 @@
   },
   {
     "id": "244_d9909448d1d2c49d31117c8c389f7a5a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_189.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_189.npy",
     "conversations": [
       {
         "from": "human",
@@ -12745,7 +12745,7 @@
   },
   {
     "id": "245_1f840875ee20ef87b5cd0b9db9794335",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_23_patient_239.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_23_patient_239.npy",
     "conversations": [
       {
         "from": "human",
@@ -12799,7 +12799,7 @@
   },
   {
     "id": "246_3ed8bea8b48d736b4058536dec9147e1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_312.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_312.npy",
     "conversations": [
       {
         "from": "human",
@@ -12861,7 +12861,7 @@
   },
   {
     "id": "247_78bb2970dc213d0076c4ea033646320a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_142.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_142.npy",
     "conversations": [
       {
         "from": "human",
@@ -12915,7 +12915,7 @@
   },
   {
     "id": "248_9d67822abb793ba704199cb66c18ccca",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_158.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_158.npy",
     "conversations": [
       {
         "from": "human",
@@ -12969,7 +12969,7 @@
   },
   {
     "id": "249_3bc203e71cc3089350999f9daba29b93",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_244.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_244.npy",
     "conversations": [
       {
         "from": "human",
@@ -13023,7 +13023,7 @@
   },
   {
     "id": "250_aee11c38673e2df552e1f9831df016ac",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_23_patient_233.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_23_patient_233.npy",
     "conversations": [
       {
         "from": "human",
@@ -13085,7 +13085,7 @@
   },
   {
     "id": "251_10d70fa6a6ffeb2a7557b7895119c6df",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_17_patient_193.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_17_patient_193.npy",
     "conversations": [
       {
         "from": "human",
@@ -13155,7 +13155,7 @@
   },
   {
     "id": "252_ddad8a4096d1ffdf104e964346946774",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_252.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_252.npy",
     "conversations": [
       {
         "from": "human",
@@ -13225,7 +13225,7 @@
   },
   {
     "id": "253_59b75132a4422a1ffb241b9206b6c4df",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_187.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_187.npy",
     "conversations": [
       {
         "from": "human",
@@ -13287,7 +13287,7 @@
   },
   {
     "id": "254_6652597a8418aaf2a88be7a04723a967",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_21_patient_219.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_21_patient_219.npy",
     "conversations": [
       {
         "from": "human",
@@ -13341,7 +13341,7 @@
   },
   {
     "id": "255_efbdf6da7a34bb863a645418c66070d4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_140.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_140.npy",
     "conversations": [
       {
         "from": "human",
@@ -13387,7 +13387,7 @@
   },
   {
     "id": "256_ffde1869412ce566ee920c8aa353169d",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_281.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_281.npy",
     "conversations": [
       {
         "from": "human",
@@ -13441,7 +13441,7 @@
   },
   {
     "id": "257_d903bedfadaf8ece17a4df14febe38be",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_146.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_146.npy",
     "conversations": [
       {
         "from": "human",
@@ -13487,7 +13487,7 @@
   },
   {
     "id": "258_8156e712b1ec6a80606d828be511b2b4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_7_patient_311.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_7_patient_311.npy",
     "conversations": [
       {
         "from": "human",
@@ -13533,7 +13533,7 @@
   },
   {
     "id": "259_1816c18bbacc4a4c338c127984ffaacc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_179.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_179.npy",
     "conversations": [
       {
         "from": "human",
@@ -13579,7 +13579,7 @@
   },
   {
     "id": "260_9d6617b9c59e47d074ebbff2322d0106",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_176.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_176.npy",
     "conversations": [
       {
         "from": "human",
@@ -13641,7 +13641,7 @@
   },
   {
     "id": "261_f9944c3fe6bec8794faaff61e5c98ffa",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_31_patient_292.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_31_patient_292.npy",
     "conversations": [
       {
         "from": "human",
@@ -13687,7 +13687,7 @@
   },
   {
     "id": "262_3779f15109ce74c4ba4aa503087e7056",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_288.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_288.npy",
     "conversations": [
       {
         "from": "human",
@@ -13741,7 +13741,7 @@
   },
   {
     "id": "263_76f23e2d30684f589e4af1316ece5bc2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_325.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_325.npy",
     "conversations": [
       {
         "from": "human",
@@ -13787,7 +13787,7 @@
   },
   {
     "id": "264_4a9da5546b1d942ba66c84f3f8160e79",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_323.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_323.npy",
     "conversations": [
       {
         "from": "human",
@@ -13841,7 +13841,7 @@
   },
   {
     "id": "265_041820394929f1fa14bc9d53612ffe01",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_138.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_138.npy",
     "conversations": [
       {
         "from": "human",
@@ -13895,7 +13895,7 @@
   },
   {
     "id": "266_8f3b4f52fb59c83bd6da22bc0bd8a72c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_145.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_145.npy",
     "conversations": [
       {
         "from": "human",
@@ -13941,7 +13941,7 @@
   },
   {
     "id": "267_29aff257a069a21c312ab7298a641ec8",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_155.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_155.npy",
     "conversations": [
       {
         "from": "human",
@@ -13995,7 +13995,7 @@
   },
   {
     "id": "268_bc918a71ddc82014028a8550a54a83cc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_2_patient_204.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_2_patient_204.npy",
     "conversations": [
       {
         "from": "human",
@@ -14049,7 +14049,7 @@
   },
   {
     "id": "269_5adb25fd349e613a51b717ba59428927",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_17_patient_194.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_17_patient_194.npy",
     "conversations": [
       {
         "from": "human",
@@ -14111,7 +14111,7 @@
   },
   {
     "id": "270_193c88d221c953fc861bb17a8d769189",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_31_patient_291.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_31_patient_291.npy",
     "conversations": [
       {
         "from": "human",
@@ -14157,7 +14157,7 @@
   },
   {
     "id": "271_759f41f5e6938e5ace0a6ff957be1063",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_163.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_163.npy",
     "conversations": [
       {
         "from": "human",
@@ -14211,7 +14211,7 @@
   },
   {
     "id": "272_62e4314887e0ff2f74e156d0e4df58b4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_241.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_241.npy",
     "conversations": [
       {
         "from": "human",
@@ -14265,7 +14265,7 @@
   },
   {
     "id": "273_3c81e49006e6d879306e1b899494e109",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_148.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_148.npy",
     "conversations": [
       {
         "from": "human",
@@ -14311,7 +14311,7 @@
   },
   {
     "id": "274_f89e8a348a96437d067646fac8a22a17",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_255.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_255.npy",
     "conversations": [
       {
         "from": "human",
@@ -14357,7 +14357,7 @@
   },
   {
     "id": "275_6362cd700ce23a8e91933586274b1506",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_161.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_161.npy",
     "conversations": [
       {
         "from": "human",
@@ -14419,7 +14419,7 @@
   },
   {
     "id": "276_b6d7f344f85097d0075a4dc9f402dcd4",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_7_patient_306.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_7_patient_306.npy",
     "conversations": [
       {
         "from": "human",
@@ -14473,7 +14473,7 @@
   },
   {
     "id": "277_5730deac3bf5223c1ee378606080e2a3",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_329.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_329.npy",
     "conversations": [
       {
         "from": "human",
@@ -14519,7 +14519,7 @@
   },
   {
     "id": "278_6038cf50d835501ee7e2fdae8563804c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_1_patient_137.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_1_patient_137.npy",
     "conversations": [
       {
         "from": "human",
@@ -14573,7 +14573,7 @@
   },
   {
     "id": "279_e120d0c024162444b842512a752173b7",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_275.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_275.npy",
     "conversations": [
       {
         "from": "human",
@@ -14627,7 +14627,7 @@
   },
   {
     "id": "280_74126310034af94b48cf306cbf2b66b2",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_330.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_330.npy",
     "conversations": [
       {
         "from": "human",
@@ -14673,7 +14673,7 @@
   },
   {
     "id": "281_d1e48fb894bdea716c22c0111bcf23ba",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_263.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_263.npy",
     "conversations": [
       {
         "from": "human",
@@ -14727,7 +14727,7 @@
   },
   {
     "id": "282_585c658bef118d2455d6c4d8aebc00bf",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_278.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_278.npy",
     "conversations": [
       {
         "from": "human",
@@ -14789,7 +14789,7 @@
   },
   {
     "id": "283_b9dfae3f4edd06c11e964b7a7e82a0e9",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_23_patient_238.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_23_patient_238.npy",
     "conversations": [
       {
         "from": "human",
@@ -14843,7 +14843,7 @@
   },
   {
     "id": "284_f936dcbf7427e0749ce89ad42e00fe03",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_328.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_328.npy",
     "conversations": [
       {
         "from": "human",
@@ -14897,7 +14897,7 @@
   },
   {
     "id": "285_47719e143aa5a2a12d90148a51b0c4ba",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_287.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_287.npy",
     "conversations": [
       {
         "from": "human",
@@ -14951,7 +14951,7 @@
   },
   {
     "id": "286_1a6a5cdc2ce67cc20d6d6c47cbd714b1",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_324.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_324.npy",
     "conversations": [
       {
         "from": "human",
@@ -15013,7 +15013,7 @@
   },
   {
     "id": "287_3313e3cb44f5176d99e8f71b5f28b00f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_10_patient_151.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_10_patient_151.npy",
     "conversations": [
       {
         "from": "human",
@@ -15067,7 +15067,7 @@
   },
   {
     "id": "288_67c25b4cb274761f6f91f4cde7868f1c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_251.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_251.npy",
     "conversations": [
       {
         "from": "human",
@@ -15121,7 +15121,7 @@
   },
   {
     "id": "289_6a974084d920067c0854c227d7ac8b7b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_2_patient_203.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_2_patient_203.npy",
     "conversations": [
       {
         "from": "human",
@@ -15167,7 +15167,7 @@
   },
   {
     "id": "290_c7d1ac7bf80a145c27c0dcb1e32ccd1a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_24_patient_240.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_24_patient_240.npy",
     "conversations": [
       {
         "from": "human",
@@ -15245,7 +15245,7 @@
   },
   {
     "id": "291_8ff3070a5c3e5897163a04e7ad03b2ab",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_31_patient_297.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_31_patient_297.npy",
     "conversations": [
       {
         "from": "human",
@@ -15299,7 +15299,7 @@
   },
   {
     "id": "292_7e51fc1cd1fcb5f4dc14d614f7104009",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_178.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_178.npy",
     "conversations": [
       {
         "from": "human",
@@ -15353,7 +15353,7 @@
   },
   {
     "id": "293_ad7d8a4d6419eaa635c2ff686dca4bf6",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_14_patient_157.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_14_patient_157.npy",
     "conversations": [
       {
         "from": "human",
@@ -15399,7 +15399,7 @@
   },
   {
     "id": "294_d46ffe66499a56bba8cd1002a822cf28",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_277.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_277.npy",
     "conversations": [
       {
         "from": "human",
@@ -15445,7 +15445,7 @@
   },
   {
     "id": "295_1c2db42d92835c7989eed921e69677cc",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_260.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_260.npy",
     "conversations": [
       {
         "from": "human",
@@ -15507,7 +15507,7 @@
   },
   {
     "id": "296_e1fcf335526ffad99bb22d45cfc45a09",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_3_patient_274.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_3_patient_274.npy",
     "conversations": [
       {
         "from": "human",
@@ -15561,7 +15561,7 @@
   },
   {
     "id": "297_bc360e5b6939d5d371b7f319fef11c2b",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_321.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_321.npy",
     "conversations": [
       {
         "from": "human",
@@ -15615,7 +15615,7 @@
   },
   {
     "id": "298_93987a316bb877ecc3b0202645dc338c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_285.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_285.npy",
     "conversations": [
       {
         "from": "human",
@@ -15669,7 +15669,7 @@
   },
   {
     "id": "299_80e3dc2fa60f8c5397091a78cb474aad",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_332.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_332.npy",
     "conversations": [
       {
         "from": "human",
@@ -15723,7 +15723,7 @@
   },
   {
     "id": "300_4d3bd7141717cd059d941a6e0a811a46",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_15_patient_172.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_15_patient_172.npy",
     "conversations": [
       {
         "from": "human",
@@ -15777,7 +15777,7 @@
   },
   {
     "id": "301_4a7a114a1a2b003788d1f77623852e75",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_7_patient_308.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_7_patient_308.npy",
     "conversations": [
       {
         "from": "human",
@@ -15831,7 +15831,7 @@
   },
   {
     "id": "302_03b5baabe6d1d3704b7005819d3d07ac",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_30_patient_282.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_30_patient_282.npy",
     "conversations": [
       {
         "from": "human",
@@ -15893,7 +15893,7 @@
   },
   {
     "id": "303_9090e5caa05c0e2e714814b6a3c2c44c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_22_patient_222.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_22_patient_222.npy",
     "conversations": [
       {
         "from": "human",
@@ -15963,7 +15963,7 @@
   },
   {
     "id": "304_073fd1c52aeb29c4ad34e69764c1113a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_2_patient_208.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_2_patient_208.npy",
     "conversations": [
       {
         "from": "human",
@@ -16009,7 +16009,7 @@
   },
   {
     "id": "305_dff6e53fda086449e5d547ab2b1c79eb",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_8_patient_314.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_8_patient_314.npy",
     "conversations": [
       {
         "from": "human",
@@ -16055,7 +16055,7 @@
   },
   {
     "id": "306_043987be4131d7ad783d65b4c417e8ff",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_9_patient_335.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_9_patient_335.npy",
     "conversations": [
       {
         "from": "human",
@@ -16117,7 +16117,7 @@
   },
   {
     "id": "307_d63d0db585256084abd68e388bea805a",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_2_patient_198.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_2_patient_198.npy",
     "conversations": [
       {
         "from": "human",
@@ -16179,7 +16179,7 @@
   },
   {
     "id": "308_35b10599ca0f8ef89896f03428225d6c",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_29_patient_264.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_29_patient_264.npy",
     "conversations": [
       {
         "from": "human",
@@ -16233,7 +16233,7 @@
   },
   {
     "id": "309_1fb37c42761c89a557c7825596b77d5f",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_16_patient_180.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_16_patient_180.npy",
     "conversations": [
       {
         "from": "human",
@@ -16295,7 +16295,7 @@
   },
   {
     "id": "310_2ca978acd41c3d415704a358feeae6c5",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_249.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_249.npy",
     "conversations": [
       {
         "from": "human",
@@ -16357,7 +16357,7 @@
   },
   {
     "id": "311_c70cbc3b771f7e2a948fee36a904e325",
-    "image": "/home/user01/aiotlab/ducntm/DATA/FmMedical/THANG 3/images/abdomen_pelvis/day_28_patient_250.npy",
+    "image": "THANG 3/images/abdomen_pelvis/day_28_patient_250.npy",
     "conversations": [
       {
         "from": "human",

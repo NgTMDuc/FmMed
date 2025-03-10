@@ -101,7 +101,7 @@ def full_data(folder, type):
                 with open("error.txt", "a") as f:
                     f.write(file_path + "\n" + str(e) + "\n")
                 continue
-            addingResult("../data/conversations.json", (report_id, response))
+            addingResult("../data/conversations.jsonl", (report_id, response))
             # qa_pairs = extract_qa_pairs(response)
             # for i, (q, a) in enumerate(qa_pairs, 1):
                 # addingResult("../data/conversations.json", (report_id, q, a))

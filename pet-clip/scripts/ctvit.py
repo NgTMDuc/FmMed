@@ -186,7 +186,7 @@ class CTViT(nn.Module):
         )
         self.enc_spatial_transformer = Transformer(depth = spatial_depth, **transformer_kwargs)
         self.enc_temporal_transformer = Transformer(depth = temporal_depth, **transformer_kwargs)
-        self.vq = VectorQuantize(dim = dim, codebook_size = codebook_size, use_cosine_sim = True)
+        self.vq = VectorQuantize(dim = dim, codebook_size = codebook_size, use_cosine_sim = False)
 
         self.to_pixels_first_frame = nn.Sequential(
             nn.Linear(dim, channels * patch_width * patch_height),

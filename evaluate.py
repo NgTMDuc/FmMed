@@ -23,11 +23,12 @@ def accuracy(model, val_loader, device):
         for img, label in tqdm(val_loader):
             img = img.to(device)
             label = label.to(device)
-            
+            label = label.argmax(dim = 1)
+            print(label)
             output = model(img)
             
             preds = torch.argmax(output, dim = 1)
-            
+            print(output)
             all_preds.extend(preds.cpu().numpy()) 
             all_labels.extend(label.cpu().numpy())
             
@@ -42,12 +43,13 @@ def accuracy(model, val_loader, device):
 def main():
     args = parser.parse_args()
     cfg = yaml.load(open(args.config, "r"), Loader=yaml.Loader)
+    # print(cfg)
     logger = init_log('global', logging.INFO)
     logger.propagate = 0
     
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-    embed_ckpt = cfg.embed_ckpt
+    embed_ckpt = cfg["embed_ckpt"]
     image_encoder = CTViT(
         dim = 512,
         codebook_size = 8192,
@@ -61,20 +63,22 @@ def main():
     ) 
     image_encoder.load_state_dict(torch.load(embed_ckpt))
     model = load_task(cfg, image_encoder)
+    model = model.to(device)
     params, param_names = collect_params(model)
+    print(param_names)
     model.train()
     
-    EPOCHS = cfg.epochs
-    save_folder = cfg.save_folder
+    EPOCHS = cfg["epochs"]
+    save_folder = cfg["save_folder"]
     previous_best = 0.0
     epoch = -1
     criteria = nn.CrossEntropyLoss().to(device)
     
     optimizer = optim.Adam(
-        params, lr = cfg.lr
+        params, lr = cfg["lr"]
     )
     train_loader = loadDataset(cfg, "train")
-    val_loader = loadDataset(cfg, "valid")
+    val_loader = loadDataset(cfg, "val")
     
     if os.path.exists(os.path.join(save_folder, "lastest.pth")):
         last_checkpoint = torch.load(os.path.join(save_folder, "lastest.pth"))
@@ -93,6 +97,7 @@ def main():
         for img, label in tqdm(train_loader):
             img = img.to(device)
             label = label.to(device)
+            label = label.argmax(dim = 1)
             out = model(img)
             
             loss = criteria(out, label)
@@ -103,8 +108,11 @@ def main():
             total_loss.update(loss.item())
         
         logger.info('===========> Epoch: {:}, Loss: {:.2f}'.format(epoch, total_loss.avg))
-        acc, f1, pre, recal = accuracy(model, val_loader, cfg, device)
+        acc, f1, pre, recal = accuracy(model, val_loader,  device)
+        
         is_best = acc > previous_best
+        previous_best = acc
+        # print(acc > previous_best)
         
         checkpoint = {
             "model": model.state_dict(),

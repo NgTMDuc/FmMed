@@ -3,15 +3,17 @@ import logging
 import os
 
 def count_params(model):
-    param_num = sum(p.numel() for p in model.parameters() if p.require_grad == True)
+    param_num = sum(p.numel() for p in model.parameters() if p.requires_grad == True)
     return param_num / 1e6
 
 def collect_params(model):
     params = []
     names = []
     for nm, m in model.named_modules():
-        for np, p in m.named_parameters():
-            if p.require_grad:
+        if nm == "":  # Skip the top-level module
+            continue
+        for np, p in m.named_parameters(recurse=False):  # Prevent duplicates from nested structures
+            if p.requires_grad:
                 params.append(p)
                 names.append(f"{nm}.{np}")
     return params, names

@@ -1,10 +1,11 @@
 #General
-num_classes: 4
-save_folder: /mnt/disk1/ducntm/ducntm/FmMed/ckpt
-embed_ckpt: /mnt/disk1/ducntm/ducntm/FmMed/ckpt/CTVit.39000.pt
-root: /mnt/disk1/ducntm/ducntm/DATA/FmMedical
+num_classes: 3
+save_folder: /home/user01/aiotlab/ducntm/FmMed/ckpt
+embed_ckpt: ./ckpt/CTVit.39000.pt
+root: /home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/
 #Model
 
 #Training
 lr: 0.0001
 epochs: 50
+batch_size: 4

@@ -82,13 +82,13 @@ class MedicalImage(Dataset):
         return image, label
 
 def loadDataset(cfg, split):
-    root = cfg.root
+    root = cfg["root"]
     
     dataset = MedicalImage(root, split)
     dataloader = DataLoader(
         dataset, 
-        num_workers = cfg.num_workers,
-        batch_size = cfg.batch_size,
+        num_workers = 4,
+        batch_size = cfg["batch_size"],
         shuffle = True,
     )
     

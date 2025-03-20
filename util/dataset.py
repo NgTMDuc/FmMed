@@ -81,7 +81,7 @@ class MedicalImage(Dataset):
         
         return image, label
 
-def loadDataset(cfg, split):
+def loadDataset(cfg, split, transform = None):
     root = cfg["root"]
     
     dataset = MedicalImage(root, split)

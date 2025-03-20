@@ -105,7 +105,7 @@ class ResNet(nn.Module):
                  block,
                  layers,
                  block_inplanes,
-                 n_input_channels=140,
+                 n_input_channels=1,
                  conv1_t_size=7,
                  conv1_t_stride=1,
                  no_max_pool=False,

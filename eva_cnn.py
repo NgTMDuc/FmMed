@@ -19,26 +19,24 @@ class MedicalImageTransform:
     def __call__(self, image: torch.Tensor):
         """
         Process the image:
-        - Normalize to [0, 1]
+        - Normalize pixel values
         - Resize depth to `fix_depth`
-        - Convert (D, H, W) → (C, D, H, W) before passing to the model
+        - Ensure final shape is (C, D, H, W) before passing to the model
         """
-        # Normalize pixel values
-        image = torch.tensor(image, dtype=torch.float32) / 32767.0
 
-        # Add batch & channel dimensions (1, 1, D, H, W) for interpolation
+        # Normalize pixel values (assuming int16 image)
+        image = torch.as_tensor(image, dtype=torch.float32) / 32767.0
+
+        # Add batch & channel dimensions (1, 1, D, H, W)
         image = image.unsqueeze(0).unsqueeze(0)
 
         # Resize (D → fix_depth)
         image = F.interpolate(image, size=(self.fix_depth, 480, 480), mode='trilinear', align_corners=False)
 
-        # Remove batch & channel dims (D, H, W)
-        image = image.squeeze(0).squeeze(0)
+        # Remove batch dim, keep channel dim → Shape becomes (1, D, H, W)
+        image = image.squeeze(0)  # Keep (C, D, H, W)
 
-        # Ensure shape is (C, D, H, W) (Fix the channel issue)
-        image = image.unsqueeze(0)  # Add the channel dimension
-
-        return image  # Shape (1, D, H, W)
+        return image  # Correct shape: (1, fix_depth, 480, 480)
 
 transform = MedicalImageTransform(fix_depth=140)
 

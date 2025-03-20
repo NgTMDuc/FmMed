@@ -37,7 +37,7 @@ class MedicalImageTransform:
         image = image.squeeze(0).squeeze(0)
 
         # Convert (D, H, W) → (1, D, H, W)  (1 channel for grayscale images)
-        image = image.unsqueeze(0)  # Final shape: (C, D, H, W)
+        # image = image  # Final shape: (C, D, H, W)
 
         return image
 

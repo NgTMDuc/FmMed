@@ -1,4 +1,4 @@
-from .cnn_based import generate_model
+from cnn_based import generate_model
 from util import AverageMeter, count_params, init_log, collect_params, loadDataset
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 import torch
@@ -42,7 +42,7 @@ args = parser.parse_args()
 cfg = yaml.load(open(args.config, "r"), Loader=yaml.Loader)
 train_loader = loadDataset(cfg, "train")
 val_loader = loadDataset(cfg, "val")
-model = generate_model(18, {"n_classes" : 3})
+model = generate_model(18)
 criteria = nn.CrossEntropyLoss().to(device)
 optimizer = optim.Adam(
         model.parameters(), lr = cfg["lr"]

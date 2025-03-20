@@ -84,7 +84,7 @@ class MedicalImage(Dataset):
 def loadDataset(cfg, split, transform = None):
     root = cfg["root"]
     
-    dataset = MedicalImage(root, split)
+    dataset = MedicalImage(root, split, transform)
     dataloader = DataLoader(
         dataset, 
         num_workers = 4,

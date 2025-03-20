@@ -65,8 +65,8 @@ def main():
     model = load_task(cfg, image_encoder)
     model = model.to(device)
     params, param_names = collect_params(model)
-    print(param_names)
-    model.train()
+    # print(param_names)
+    
     
     EPOCHS = cfg["epochs"]
     save_folder = cfg["save_folder"]
@@ -90,6 +90,7 @@ def main():
         logger.info('************ Load from checkpoint at epoch %i\n' % epoch)
     
     for epoch in range(epoch + 1, EPOCHS):
+        model.train()
         total_loss = AverageMeter()
         
         logger.info('===========> Epoch: {:}, LR: {:.5f}, Previous best: {:.2f}'.format(epoch, optimizer.param_groups[0]['lr'], previous_best))

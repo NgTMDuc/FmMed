@@ -10,6 +10,7 @@ import logging
 import torch.nn as nn
 from torch import optim
 from torchvision import transforms
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class MedicalImageTransform:
     def __init__(self, fix_depth=140):
@@ -23,7 +24,7 @@ class MedicalImageTransform:
         - Convert (H, W, D) → (C, H, W, D)
         """
         # Normalize pixel values
-        image = image.float() / 32767.0  
+        image = torch.tensor(image, dtype=torch.float32) / 32767.0
 
         # Add batch & channel dimensions (1, 1, D, H, W) for interpolation
         image = image.unsqueeze(0).unsqueeze(0)

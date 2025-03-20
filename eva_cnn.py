@@ -53,11 +53,11 @@ def accuracy(model, val_loader, device):
             img = img.to(device)
             label = label.to(device)
             label = label.argmax(dim = 1)
-            print(label)
+            # print(label)
             output = model(img)
             
             preds = torch.argmax(output, dim = 1)
-            print(output)
+            # print(output)
             all_preds.extend(preds.cpu().numpy()) 
             all_labels.extend(label.cpu().numpy())
             

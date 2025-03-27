@@ -184,3 +184,7 @@ cython_debug/
 *.heif
 *.csv
 *.pth
+*.jit 
+
+cosmos_predict1/scripts/datasets/
+cosmos_predict1/checkpoints/

@@ -78,7 +78,7 @@ class MedicalImage(Dataset):
             image = process_image(image)
         
         label = np.array([1 if modal == m else 0 for m in self.allowed_modalities], dtype=np.float32)
-        
+        return image
         return image, label
 
 def loadDataset(cfg, split, transform = None):

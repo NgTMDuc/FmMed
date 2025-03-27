@@ -18,7 +18,8 @@
 from typing import Any
 
 import torch
-
+import os
+print("Current Working Directory:", os.getcwd())
 from cosmos_predict1.tokenizer.training.datasets.utils import IMAGE_KEY, INPUT_KEY, MASK_KEY, RECON_KEY, VIDEO_KEY
 from cosmos_predict1.tokenizer.training.losses.continuous import RECON_CONSISTENCY_KEY, VIDEO_CONSISTENCY_LOSS
 from cosmos_predict1.utils import ema

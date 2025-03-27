@@ -51,7 +51,7 @@ def parse_args() -> argparse.Namespace:
         help="Which tokenizer model types to download. Possible values: CV8x8x8-720p, DV8x16x16-720p, CV4x8x8-360p, DV4x8x8-360p",
     )
     parser.add_argument(
-        "--checkpoint_dir", type=str, default="checkpoints", help="Directory to save the downloaded checkpoints."
+        "--checkpoint_dir", type=str, default="../../ckpt/", help="Directory to save the downloaded checkpoints."
     )
     args = parser.parse_args()
     return args
@@ -145,5 +145,11 @@ def main(args) -> None:
 
 
 if __name__ == "__main__":
+    from dotenv import load_dotenv
+    import os
+    load_dotenv()
+    from huggingface_hub import login
+    hf_token = os.getenv("HUGGINGFACE_TOKEN")
+    login(hf_token)
     args = parse_args()
     main(args)

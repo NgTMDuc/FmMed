@@ -110,7 +110,7 @@ def main():
         
         logger.info('===========> Epoch: {:}, Loss: {:.2f}'.format(epoch, total_loss.avg))
         acc, f1, pre, recal = accuracy(model, val_loader,  device)
-        
+        print("Accuracy: ", acc)
         is_best = acc > previous_best
         previous_best = acc
         # print(acc > previous_best)

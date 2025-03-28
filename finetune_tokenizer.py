@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/mnt/disk3/ducntm/FmMed/cosmos_predict1/")
+sys.path.append("./cosmos_predict1/")
 import pandas as pd 
 import numpy as np 
 import torch 

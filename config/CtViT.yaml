@@ -8,4 +8,4 @@ root: /home/user01/aiotlab/thaind/DAC001_CTAC3.75mm_H_1001_PETWB3DAC001/
 #Training
 lr: 0.0001
 epochs: 50
-batch_size: 4
+batch_size: 32

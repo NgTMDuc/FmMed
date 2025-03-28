@@ -73,6 +73,7 @@ cfg = yaml.load(open(args.config, "r"), Loader=yaml.Loader)
 train_loader = loadDataset(cfg, "train", transform)
 val_loader = loadDataset(cfg, "val", transform)
 model = generate_model(18)
+model = model.to(device)
 criteria = nn.CrossEntropyLoss().to(device)
 optimizer = optim.Adam(
         model.parameters(), lr = cfg["lr"]

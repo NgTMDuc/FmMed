@@ -4,9 +4,8 @@ import pandas as pd
 import numpy as np 
 import torch 
 from torch import nn
-from cosmos_predict1.tokenizer.training.model import TokenizerModel
+from cosmos_predict1.tokenizer import CausalContinuousVideoTokenizer, CausalContinuousFactorizedVideoTokenizerConfig
 from tqdm import tqdm 
-from cosmos_predict1.tokenizer.training.configs.config import Config
 
 # def load_model(
 #     model_name: str = "Cosmos-Tokenize1-CV8x8x8-720p",
@@ -33,4 +32,4 @@ def stage1_train(model, train_loader):
     
 
 if __name__ == "__main__":
-    model = TokenizerModel(Config)
+    print(CausalContinuousFactorizedVideoTokenizerConfig)

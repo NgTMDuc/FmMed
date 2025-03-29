@@ -1,33 +1,23 @@
-import numpy as np
+import os
 
-def safe_load_npy(file_path):
-    """Try loading a .npy file safely. Return True if successful, False otherwise."""
-    try:
-        _ = np.load(file_path)
-        return True  # Load thành công
-    except Exception as e:
-        print(f"❌ Error loading {file_path}: {e}")
-        return False  # Load thất bại
+def get_npy_files(root_path):
+    """Duyệt qua toàn bộ thư mục và lấy danh sách các file .npy"""
+    npy_files = []
+    
+    for root, _, files in os.walk(root_path):
+        for file in files:
+            if file.endswith(".npy"):
+                npy_files.append(os.path.join(root, file))
+    
+    return npy_files
 
-def filter_valid_samples(input_file, output_file):
-    valid_samples = []
+# Sử dụng
+root_path = "your/root/path"
+npy_files = get_npy_files(root_path)
+print(f"Found {len(npy_files)} .npy files.")
 
-    with open(input_file, "r") as f:
-        file_paths = [line.strip() for line in f.readlines()]
+# Nếu muốn lưu vào file txt
+with open("full_data.txt", "w") as f:
+    f.writelines("\n".join(npy_files) + "\n")
 
-    total_files = len(file_paths)
-    print(f"📂 Total files to check: {total_files}")
-
-    for path in file_paths:
-        if safe_load_npy(path):  # Chỉ cần load được, không kiểm tra shape
-            valid_samples.append(path)
-
-    # Lưu lại danh sách file hợp lệ
-    with open(output_file, "w") as f:
-        f.writelines("\n".join(valid_samples) + "\n")
-
-    print(f"✅ Successfully loaded: {len(valid_samples)}/{total_files} files")
-    print(f"📄 Saved filtered list to {output_file}")
-
-# Lọc file train.txt và lưu vào train_new.txt
-filter_valid_samples("train.txt", "train_new.txt")
+print("✅ File list saved to full_data.txt")

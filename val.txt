@@ -1,0 +1,5 @@
+/home/ducntm/DATA/CT-Images/THANG 1/images/abdomen_pelvis/day_4_patient_76.npy
+/home/ducntm/DATA/CT-Images/THANG 10/images/chest/day_25_patient_1337.npy
+/home/ducntm/DATA/CT-Images/THANG 12/images/whole_body/day_14_patient_1591.npy
+/home/ducntm/DATA/CT-Images/THANG 1/images/abdomen_pelvis/day_13_patient_27.npy
+/home/ducntm/DATA/CT-Images/THANG 6/images/head_neck/day_23_patient_844.npy
